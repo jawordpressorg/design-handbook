@@ -1,6 +1,7 @@
-# Colors
+<!-- # Colors -->
+# 色
 
-Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/))
+Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/))
 
 ## Colors
 
