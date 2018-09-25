@@ -1,4 +1,4 @@
-# About the team
+# デザインチームについて
 
 ## What is the Design Team?
 
