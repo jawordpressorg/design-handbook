@@ -1,6 +1,8 @@
-# About the team
+<!-- # About the team -->
+# デザインチームについて
 
-## What is the Design Team?
+<!-- ## What is the Design Team? -->
+## デザインチームとは何か？
 
 The design group is focused on the designing and developing the user interface. It’s a home for designers and UXers alike. There are regular discussions about mockups, design, and user testing.
 
