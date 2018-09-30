@@ -1,6 +1,8 @@
-# Typography
+<!-- # Typography -->
+# タイポグラフィ
 
-The WordPress brand uses two Emigre typefaces for it’s identity – [Mrs. Eaves Small Caps](http://www.myfonts.com/fonts/emigre/mrs-eaves-ot/small-caps-ot/ "Emigre: Mrs. Eaves Small Caps") and [Dalliance](http://www.myfonts.com/fonts/emigre/dalliance-ot/roman/glyphs.html#glyphs/322943/77 "Emigre: Dalliance") – and [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) for everything else. The logotype uses Mrs. Eaves and Dalliance, but those typefaces are reserved for the Logotype only and should not be used elsewhere.
+<!-- The WordPress brand uses two Emigre typefaces for it’s identity – [Mrs. Eaves Small Caps](http://www.myfonts.com/fonts/emigre/mrs-eaves-ot/small-caps-ot/ "Emigre: Mrs. Eaves Small Caps") and [Dalliance](http://www.myfonts.com/fonts/emigre/dalliance-ot/roman/glyphs.html#glyphs/322943/77 "Emigre: Dalliance") – and [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) for everything else. The logotype uses Mrs. Eaves and Dalliance, but those typefaces are reserved for the Logotype only and should not be used elsewhere. -->
+WordPress のブランドはそのアイデンティティのために2つの Emigre 書体を使います - [Mrs. Eaves Small Caps](http://www.myfonts.com/fonts/emigre/mrs-eaves-ot/small-caps-ot/ "Emigre: Mrs. Eaves Small Caps") と [Dalliance](http://www.myfonts.com/fonts/emigre/dalliance-ot/roman/glyphs.html#glyphs/322943/77 "Emigre: Dalliance") - そして [Open Sans](https://www.google.com/fonts/specimen/Open+Sans) をそれ以外のものに使います。ロゴタイプに Mrs. Eaves と Dalliance を使いますが、これらの書体はこのロゴタイプのためだけに用意されているので他の部分で使うべきではありません。
 
 ## Open Sans
 
