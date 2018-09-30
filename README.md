@@ -34,6 +34,8 @@ __手順：__
     ```
 3.  __`master` ブランチにプルリクエストします。__
 
+## 翻訳のルール
+
 翻訳を始める前に、[WordPress の翻訳/翻訳スタイルガイド - WordPress Codex 日本語版](https://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89) に目をお通しください。
 
 ## 原文更新方法
