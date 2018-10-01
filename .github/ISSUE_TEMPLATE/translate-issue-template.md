@@ -4,15 +4,16 @@ about: 翻訳の開始宣言用のテンプレート
 
 ---
 
-<!-- title に「翻訳: 翻訳するファイル名」を含めてください ex. 翻訳：get-involved/first-steps を翻訳します -->
+<!-- title に「翻訳: 翻訳するファイル名」を含めてください
+ex. 翻訳：get-involved/first-steps を翻訳します -->
 
 以下のページの翻訳をします。
 
-** 翻訳するページのURL**
+**翻訳するページのURL**
 <!-- 翻訳するページのURLを書いてください -->
 https://make.wordpress.org/design/handbook/
 
-** 翻訳するページのリポジトリ内のパス **
+**翻訳するページのリポジトリ内のパス**
 <!-- 翻訳するページのリポジトリ内のパスを書いてください -->
 design-handbook/design/
 
