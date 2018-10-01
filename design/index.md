@@ -20,7 +20,7 @@ WordPress と WordPress.org のデザインは常に進化しています。 こ
 ## WordPress.org
 
 <!-- The WordPress.org section of this handbook will document specific treatments for WordPress.org including the [typography](https://make.wordpress.org/design/handbook/wordpress-org/typography/) used, [metrics](https://make.wordpress.org/design/handbook/wordpress-org/metrics/) (like the grid), and the overall [navigational structure](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) (information architecture). -->
-このハンドブックの WordPress.org セクションでは、WordPress.org において具体的な扱いについて説明しています。たとえば [タイポグラフィ](https://make.wordpress.org/design/handbook/wordpress-org/typography/)、[メトリクス](https://make.wordpress.org/design/handbook/wordpress-org/metrics/)　（グリッドなど）、全体的な [ナビゲーション構造](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) （情報アーキテクチャ） など。
+このハンドブックの WordPress.org セクションでは、WordPress.org において具体的な扱いについて説明しています。たとえば [タイポグラフィ](https://make.wordpress.org/design/handbook/wordpress-org/typography/)、[メトリクス](https://make.wordpress.org/design/handbook/wordpress-org/metrics/) (グリッドなど)、全体的な [ナビゲーション構造](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) (情報アーキテクチャ) など。
 
 
 <!-- ## Peripherals -->
