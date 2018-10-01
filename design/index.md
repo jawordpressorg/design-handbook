@@ -2,7 +2,7 @@
 # ハンドブック
 
 <!-- The design of WordPress and WordPress.org are constantly evolving. This handbook documents the base design concepts to be used throughout the WordPress ecosystem, as well as more specific design treatments. -->
-WordPressとWordPress.org のデザインは常に進化しています。 このハンドブックでは、 WordPress エコシステム全体で使用される基本的なデザインコンセプトと、より具体的なデザインの扱い方について説明します。
+WordPress と WordPress.org のデザインは常に進化しています。 このハンドブックでは、 WordPress エコシステム全体で使用される基本的なデザインコンセプトと、より具体的なデザインの扱い方について説明します。
 
 <!-- ## Foundations -->
 ## 基本
@@ -20,14 +20,14 @@ WordPressとWordPress.org のデザインは常に進化しています。 こ�
 ## WordPress.org
 
 <!-- The WordPress.org section of this handbook will document specific treatments for WordPress.org including the [typography](https://make.wordpress.org/design/handbook/wordpress-org/typography/) used, [metrics](https://make.wordpress.org/design/handbook/wordpress-org/metrics/) (like the grid), and the overall [navigational structure](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) (information architecture). -->
-このハンドブックの WordPress.org セクションでは、WordPress.org において具体的な扱いについて説明しています。たとえば[タイポグラフィ](https://make.wordpress.org/design/handbook/wordpress-org/typography/)、[メトリクス](https://make.wordpress.org/design/handbook/wordpress-org/metrics/)（グリッドなど）、全体的な[ナビゲーション構造](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) （情報アーキテクチャ） など。
+このハンドブックの WordPress.org セクションでは、WordPress.org において具体的な扱いについて説明しています。たとえば [タイポグラフィ](https://make.wordpress.org/design/handbook/wordpress-org/typography/)、[メトリクス](https://make.wordpress.org/design/handbook/wordpress-org/metrics/)　（グリッドなど）、全体的な [ナビゲーション構造](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) （情報アーキテクチャ） など。
 
 
 <!-- ## Peripherals -->
 ## その他について
 
 <!-- There are a number of other parts of the WordPress ecosystem that will receive their own treatment. Currently, we plan to outline the design treatments for the [WordPress Foundation](https://make.wordpress.org/design/handbook/peripherals/wordpress-foundation/), [WordPress.tv](https://make.wordpress.org/design/handbook/peripherals/wordpress-tv/), [WordCamp.org](https://make.wordpress.org/design/handbook/peripherals/wordcamp-org/), [bbPress](https://make.wordpress.org/design/handbook/peripherals/bbpress/), and [BuddyPress](https://make.wordpress.org/design/handbook/peripherals/buddypress/). -->
-WordPress のエコシステムには、独自の扱いとなる部分がたくさんあります。 現在、以下の項目のデザインの扱い方について概要説明することを計画しています。
+WordPress のエコシステムには、独自の扱いとなる部分がたくさんあります。 現在、以下の項目のデザインの扱い方について概要の説明をすることを計画しています。
 [WordPress Foundation](https://make.wordpress.org/design/handbook/peripherals/wordpress-foundation/)、
 [WordPress.tv](https://make.wordpress.org/design/handbook/peripherals/wordpress-tv/)、
 [WordCamp.org](https://make.wordpress.org/design/handbook/peripherals/wordcamp-org/)、
