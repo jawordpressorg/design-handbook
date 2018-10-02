@@ -5,7 +5,7 @@ about: 翻訳の開始宣言用のテンプレート
 ---
 
 <!-- title に「翻訳: 翻訳するファイル名」を含めてください
-ex. 翻訳：get-involved/first-steps を翻訳します -->
+ex. 翻訳：get-involved/first-steps -->
 
 以下のページの翻訳をします。
 
