@@ -34,9 +34,11 @@ __手順：__
     ```
 3.  __`master` ブランチにプルリクエストします。__
 
-## 翻訳用語集
+## 翻訳のルール
 
-翻訳に悩んだ場合はまず[翻訳用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
+翻訳を始める前に、[WordPress の翻訳/翻訳スタイルガイド - WordPress Codex 日本語版](https://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89) に目をお通しください。
+
+翻訳の表記ゆれなど、その他迷った時は Issue を立てるか、 [WordPress 日本語 Slack](http://bit.ly/join-wordslack) の design チャンネルまでご相談ください。
 
 ## 原文更新方法
 
