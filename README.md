@@ -8,8 +8,8 @@ design ディレクトリ内にある英文を翻訳していきます。
 
 ## 翻訳の始め方
 
-1. [翻訳中のページのIssueの一覧](https://github.com/miminari/design-handbook/projects/1) をチェック。
-2. 翻訳したいページが含まれていないことを確認したら、新たに[翻訳用の Issue をテンプレートに沿って作成](https://github.com/miminari/design-handbook/issues/new?template=translate-issue-template.md)してください。
+1. [翻訳中のページの一覧](https://github.com/miminari/design-handbook/projects/1) をチェックします。
+2. 翻訳したいページが含まれていないことを確認したら、新たに[翻訳用の Issue をテンプレートに沿って作成](https://github.com/miminari/design-handbook/issues/new?template=translate-issue-template.md)します。
 
 ## 翻訳方法
 
@@ -32,6 +32,7 @@ __手順：__
     # ようこそ
     ```
 3.  __`master` ブランチにプルリクエストします。__
+  * プルリクエストを送る際の説明欄に、"fixes #[Issue 番号]" (`[]` は不要) というフォーマットで作成した Issue を記述すると、プルリクエストがマージされる際に自動で Issue が閉じられるので便利です。
 
 GitHub が初めての方も [翻訳開始から提案までの流れ](https://github.com/jawordpressorg/community-handbook/wiki/%E7%BF%BB%E8%A8%B3%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E6%8F%90%E6%A1%88%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) を参考に、是非ご参加ください。
 
