@@ -2,7 +2,7 @@
 # よくある質問
 
 <!-- ## What does WordPress design encompass? -->
-WordPress のデザインには何が含まれていますか
+## WordPress のデザインには何が含まれていますか
 
 <!-- WordPress design encompasses a couple different territories: -->
 WordPress のデザインには、複数の領域が含まれています。
@@ -12,9 +12,9 @@ WordPress のデザインには、複数の領域が含まれています。
 *   The WordPress.org website, and its various subsections like Make, the Devhub, the Support forums, etc.
 *   Promotional and marketing materials for WordPress, in collaboration with the Marketing and Community teams -->
 *   WordPress ソフトウェア自体のインターフェースとユーザーエクスペリエンス
-* [公式WordPress.orgプラグイン](https://profiles.wordpress.org/wordpressdotorg#content-plugins) のインターフェイスとユーザーエクスペリエンス
+* [公式 WordPress.org プラグイン](https://profiles.wordpress.org/wordpressdotorg#content-plugins) のインターフェイスとユーザーエクスペリエンス
 * WordPress.org の Web サイト、および Make、Devhub、サポートフォーラムなどのさまざまな区分け
-* マーケティングチームおよびコミュニティチームと協力して作られたWordPress のプロモーションおよびマーケティング資料
+* マーケティングチームおよびコミュニティチームと協力して作られた WordPress のプロモーションおよびマーケティング資料
 
 <!-- ## What should I do if I have a design suggestion? -->
 ## デザインの提案があるときには、どうすればいいですか？
