@@ -13,13 +13,17 @@
 <!-- Are you interested in joining the Design Team? Great! The team is open to anyone who wants to help out, and the process is simple. If you would like to join the team here is a useful guide. -->
 デザインチームに興味がありますか？ いいですね！ このチームは協力したい人は誰でも参加可能で、その手順はシンプルです。 もしあなたがチームに参加したいのなら、以下が役立つガイドになるでしょう。
 
-## Communication
+<!-- ## Communication -->
+コミュニケーション
 
-The [Make WordPress Design blog](https://make.wordpress.org/design/) is where you’ll find meeting agendas and summaries and occasionally other topics.
+<!-- The [Make WordPress Design blog](https://make.wordpress.org/design/) is where you’ll find meeting agendas and summaries and occasionally other topics. -->
+[Make WordPress Design blog](https://make.wordpress.org/design/) では、これまでの会議のアジェンダとその要約、また、その他のトピックを確認できます。
 
-We communicate during meetings and asynchronously in the Slack [design channel](http://wordpress.slack.com/messages/design/). This is the best way to contact the team.
+<!-- We communicate during meetings and asynchronously in the Slack [design channel](http://wordpress.slack.com/messages/design/). This is the best way to contact the team. -->
+チームでは、ミーティングをはじめ、Slack [design channel](http://wordpress.slack.com/messages/design/) で、非同期的にコミュニケーションをとっています。 チームにコンタクトしたい場合は、Slack [design channel](http://wordpress.slack.com/messages/design/) の利用をお勧めします。
 
-You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team.
+<!-- You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team. -->
+また、[Trello Board](https://trello.com/c/RrAyxp7T) で、チームの主要トピックの概要を確認することもできます。
 
 ## Meeting Structure
 
