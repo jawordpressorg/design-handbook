@@ -11,7 +11,7 @@
 ## デザインチームに参加するには？
 
 <!-- Are you interested in joining the Design Team? Great! The team is open to anyone who wants to help out, and the process is simple. If you would like to join the team here is a useful guide. -->
-デザインチームに興味がありますか？ いいですね！ このチームは協力をしたい人なら誰でも参加ができ、その手順は簡単です。 もしあなたがチームに参加したいのなら、以下が役立つガイドになるでしょう。
+デザインチームに興味がありますか？ いいですね！ このチームは協力したい人は誰でも参加可能で、その手順はシンプルです。 もしあなたがチームに参加したいのなら、以下が役立つガイドになるでしょう。
 
 ## Communication
 
