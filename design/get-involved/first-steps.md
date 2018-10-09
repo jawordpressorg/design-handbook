@@ -5,7 +5,7 @@
 ということはあなたはデザインチームに貢献したいということですね? それは素晴らしい。このチームは誰にでも開かれていて、簡単に始められます。まず初めに、温かい歓迎の意を。このプロジェクトにはデザイナーが必要なので、本当に歓迎します 🙂
 
 <!-- As a team we work on a lot of different things; from core to Dashicons and beyond. Here however are some good first steps as to how you can contribute to the design team. -->
-チームとして、私たちはコアのことからダッシュアイコンに至るまで、沢山の異なる事象について扱います。しかしながらここでは、どのようにデザインチームに貢献できるか、その第一歩をいくつか紹介します。
+チームとして、私たちはコアのことからダッシュアイコンに至るまで、沢山の異なる事象について扱います。しかしながらここではまず、どのようにデザインチームに貢献できるのか、その始めの手順を紹介します。
 
 <!-- 1.  Create a [WordPress.org user account](https://wordpress.org/support/register.php) or [login](https://login.wordpress.org/).
 2.  Join Slack and say ‘Hi’ – that way we can know you are looking to get involved and welcome you. Visit [chat.wordpress.org](http://chat.wordpress.org) and sign up using your WordPress.org user account.
@@ -13,6 +13,6 @@
 4.  Find out the ways you can [contribute here](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/). -->
 
 1. [WordPress.org のユーザーアカウント](https://wordpress.org/support/register.php) を作成するか [ログイン](https://login.wordpress.org/)してください。
-2. Slack に参加して「こんにちは」と言いましょう。これでチームはあなたが参加したいことを知り、歓迎することができます。[chat.wordpress.org](http://chat.wordpress.org) を訪れて WordPress.org のユーザーアカウントでサインアップしてください。
-3. [make.wordpress.org/design](https://make.wordpress.org/design) のブログを購読してください。このブログを購読してもらうことでチームと連絡を取り合い情報を更新します。
-4. [ここで貢献する](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/)方法を見つけてください。
+2. Slack に参加して「こんにちは」と言いましょう。これでチームはあなたが参加しようとしていることを知り、歓迎することができます。[chat.wordpress.org](http://chat.wordpress.org) を訪れて WordPress.org のユーザーアカウントでサインアップしてください。
+3. [make.wordpress.org/design](https://make.wordpress.org/design) のブログを購読してください。このブログを購読してもらうことでチームと連絡を取り合い情報を更新できます。
+4. [ここで貢献する方法を見つけてください](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/)。
