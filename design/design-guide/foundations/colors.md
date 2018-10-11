@@ -2,13 +2,13 @@
 # カラー
 
 <!-- Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/)) -->
-色はブランド認知の為の重要な側面の1つです。正しい色相（色）を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式のWordPressカラーを確認してください。 (こちらの[CcodePen](https://codepen.io/hugobaeta/full/RNOzoV/)でも利用可能です。)
+色はブランド認知の為の重要な側面の1つです。正しい色相（色）を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
 
 ＜！-- ## Colors -->
 ## カラー
 
 <!-- Colors are separated into three groups. The Blues, the Grays, and Auxiliary colors. The most recognizable colors are, obviously, the Blues and Grays. The Auxiliary hues can be used for various reasons, and come in a variety of values, with some tints (added white), tones (mix with another hue), and shades (added black) -->
-カラーはブルー、グレー、補助色相の3つのグループに分かれています。最もよく知られているカラーは、ブルーとグレーです。補助色相はさまざまな理由で使用でき、いくつかの色合い（白を加えたもの）、色調（別の色相との混合）、陰影（黒を加えたもの）があります。
+カラーはブルー、グレー、補助色相の3つのグループに分かれています。最もよく知られているカラーは、ブルーとグレーです。補助色相はさまざまな理由で使用でき、いくつかの色合い (白を加えたもの) 、色調 (別の色相との混合) 、陰影 (黒を加えたもの) があります。
 
 <!-- class 情報保持のため html タグを残します -->
 <div class="colors-wrapper">
@@ -34,7 +34,7 @@
 ### グレー
 
 <!-- This section keeps growing, here are just some of the base ones. [More on the codepen](https://codepen.io/hugobaeta/full/RNOzoV/). -->
-このセクションは成長し続けており、こちらにはいくつか基本的なものを掲載しています。[CodePenで詳細を確認](https://codepen.io/hugobaeta/full/RNOzoV/).
+このセクションは成長し続けており、こちらにはいくつか基本的なものを掲載しています。 [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) で詳細を確認。
 
 <div class="ultra-dark-gray color value">
 <div class="name">Ultra Dark Gray</div>
@@ -73,7 +73,7 @@
 ### 補助色相
 
 <!-- Here are just the base hues, but there’s a [plethora of tints, tones, and shades available on the codepen](https://codepen.io/hugobaeta/pen/RNOzoV). These keep evolving, so they don’t get documented here quite yet. -->
-こちらには基本的な色調のみ掲載されていますが、 [CodePen](https://codepen.io/hugobaeta/pen/RNOzoV)には様々な色調が掲載されています。 これらは進化し続けている為、まだこちらには掲載されていません。
+こちらには基本的な色相のみ掲載されていますが、 [CodePen](https://codepen.io/hugobaeta/pen/RNOzoV) には様々な色相が掲載されています。 これらは進化し続けている為、まだこちらには掲載されていません。
 
 <div class="accent-red color">
 <div class="value value-base">
@@ -127,9 +127,9 @@
 <!-- *   [Adobe Swatches (.ase)](https://cldup.com/41wt38Q-cI.ase) (props to [@antpb](https://profiles.wordpress.org/antpb/))
 *   [Adobe Illustrator (.ai)](https://cldup.com/DG7vCr8ERF.ai) (props to [@antpb](https://profiles.wordpress.org/antpb/))
 *   Sketch File with color elements (want to contribute one? ping [@hugobaeta](https://profiles.wordpress.org/hugobaeta/) on slack) -->
-*   [Adobe Swatches (.ase)](https://cldup.com/41wt38Q-cI.ase) ([@antpb](https://profiles.wordpress.org/antpb/)に敬意を示します)
-*   [Adobe Illustrator (.ai)](https://cldup.com/DG7vCr8ERF.ai) ([@antpb](https://profiles.wordpress.org/antpb/)に敬意を示します)
-*   カラー要素を含むSketchファイル (貢献をお待ちしています。Slackで[@hugobaeta](https://profiles.wordpress.org/hugobaeta/)にご連絡ください。)
+*   [Adobe Swatches (.ase)](https://cldup.com/41wt38Q-cI.ase) ([@antpb](https://profiles.wordpress.org/antpb/) さん、ありがとうございます。)
+*   [Adobe Illustrator (.ai)](https://cldup.com/DG7vCr8ERF.ai) ([@antpb](https://profiles.wordpress.org/antpb/) さん、ありがとうございます。)
+*   カラー要素を含むSketchファイル (貢献をお待ちしています。Slackで [@hugobaeta](https://profiles.wordpress.org/hugobaeta/) さんにご連絡ください。)
 
 <!-- ## Resources -->
 ## リソース
