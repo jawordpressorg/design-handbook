@@ -57,7 +57,7 @@
 *デザインチームに関連する事務連絡、管理事項など。*
 
 <!-- **If time allows, follow-up on older cards** -->
-**時間が許せば古いカードのフォローアップを**
+**時間が許せば古いカードのフォローアップ**
 
 <!-- *[Filter Trello board for ‘needs discussion’ label](https://trello.com/b/fnHScayo/design-team?menu=filter&filter=label:Needs%20discussion). If none, triage any Trello cards that are not yet owned.* -->
 [Trello を ‘needs discussion’ ラベルでフィルタリング](https://trello.com/b/fnHScayo/design-team?menu=filter&filter=label:Needs%20discussion)します。もし ‘needs discussion’ ラベルのチケットがひとつも無いときは、まだメンバーのいない Trello カードをトリアージしましょう。
