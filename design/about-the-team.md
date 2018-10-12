@@ -41,7 +41,7 @@
 **トリアージ・インボックス**
 
 <!-- *See [Inbox column on Trello board](https://trello.com/b/fnHScayo/design-team). New requests for design made via the Make blog, Slack, etc. should be transferred to Inbox each week, along with any new cards that need to be acknowledged.* -->
-*[Inbox column on Trello board](https://trello.com/b/fnHScayo/design-team) を確認しましょう。[Make WordPress Design](https://make.wordpress.org/design/)、Slack [design channel](http://wordpress.slack.com/messages/design/) で提案されたデザインリクエストは、承認待ちの他の新しいカード同様、毎週Inboxに追加していきます。*
+*[Inbox column on Trello board](https://trello.com/b/fnHScayo/design-team) を確認しましょう。[Make WordPress Design](https://make.wordpress.org/design/)、Slack の [design channel](http://wordpress.slack.com/messages/design/) で提案されたデザインリクエストは、承認待ちの他の新しいカード同様、毎週 Inbox に追加していきます。*
 
 <!-- **Calls for design: follow-ups** -->
 **フォローアップ**
@@ -60,4 +60,4 @@
 **時間が許せば古いカードのフォローアップを**
 
 <!-- *[Filter Trello board for ‘needs discussion’ label](https://trello.com/b/fnHScayo/design-team?menu=filter&filter=label:Needs%20discussion). If none, triage any Trello cards that are not yet owned.* -->
-[Trelloを ‘needs discussion’ ラベルでフィルタリング](https://trello.com/b/fnHScayo/design-team?menu=filter&filter=label:Needs%20discussion) します。もし‘needs discussion’ ラベルのチケットがひとつも無いときは、まだメンバーのいない Trelloカードをトリアージしましょう。
+[Trello を ‘needs discussion’ ラベルでフィルタリング](https://trello.com/b/fnHScayo/design-team?menu=filter&filter=label:Needs%20discussion)します。もし ‘needs discussion’ ラベルのチケットがひとつも無いときは、まだメンバーのいない Trello カードをトリアージしましょう。
