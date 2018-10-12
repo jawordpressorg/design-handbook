@@ -20,7 +20,7 @@
 [Make WordPress Design blog](https://make.wordpress.org/design/) では、これまでの会議のアジェンダとその要約、また、その他のトピックを確認できます。
 
 <!-- We communicate during meetings and asynchronously in the Slack [design channel](http://wordpress.slack.com/messages/design/). This is the best way to contact the team. -->
-チームでは、ミーティングをはじめ、Slack [design channel](http://wordpress.slack.com/messages/design/) で、非同期的にコミュニケーションをとっています。チームにコンタクトしたい場合は、Slack [design channel](http://wordpress.slack.com/messages/design/) の利用をお勧めします。
+チームでは、ミーティングをはじめ、Slack の [design channel](http://wordpress.slack.com/messages/design/) で、コミュニケーションをとっています。チームとコンタクトを取りたい場合は、Slack の [design channel](http://wordpress.slack.com/messages/design/) の利用をお勧めします。
 
 <!-- You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team. -->
 また、[Trello Board](https://trello.com/c/RrAyxp7T) で、チームの主要トピックの概要を確認することもできます。
@@ -29,7 +29,7 @@
 ## ミーティング内容
 
 <!-- Meetings follow this typical structure. Being able to copy and paste the basic meeting structure will make generating and posting agendas easier and more consistent. -->
-ミーティングでは、だいたい以下のようなことを行います。また、過去の内容をコピー&ペーストすることで、一貫性のあるアジェンダを簡単に作成、投稿することができます。
+ミーティングでは、だいたい以下のようなことを行います。過去の内容をコピーペーストすることで、一貫性のあるアジェンダを簡単に作成、投稿することができます。
 
 <!-- Both the agendas and meeting summary notes are linked from [Make WordPress Design](https://make.wordpress.org/design/). -->
 これまで行われたミーティングのアジェンダとサマリーは、 [Make WordPress Design](https://make.wordpress.org/design/) で確認できます。
