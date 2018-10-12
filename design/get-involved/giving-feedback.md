@@ -1,6 +1,8 @@
-# Giving Feedback
+<!-- # Giving Feedback -->
+# フィードバックを送る
 
-Giving design feedback is an excellent way to start getting involved in contributing to WordPress. There are a few places you can give feedback:
+<!-- Giving design feedback is an excellent way to start getting involved in contributing to WordPress. There are a few places you can give feedback: -->
+デザインフィードバックを送ることは WordPress への貢献を始めるのに素晴らしい方法のひとつです。フィードバックはいくつかの場所で送ることができます。
 
 *   As a comment on individual [t](https://core.trac.wordpress.org/)rac tickets.  
     We have different types that have the design team involved:
@@ -15,7 +17,8 @@ Giving design feedback is an excellent way to start getting involved in contribu
 *   On [Slack](https://make.wordpress.org/chat/).
 *   As a new issue, or comment, on a feature project’s GitHub.
 
-Please keep in mind the following guidelines when giving feedback:
+<!-- Please keep in mind the following guidelines when giving feedback: -->
+フィードバックする時は以下のガイドラインに気をつけてください :
 
 *   **Empathize**. Remember that behind every design is a person. If you wouldn’t give this feedback to someone’s face, don’t say it on the internet.
 *   Consider starting with “I think…” and finish with “because…”.
