@@ -5,7 +5,7 @@
 ## デザインチームとは何か？
 
 <!-- The design group is focused on the designing and developing the user interface. It’s a home for designers and UXers alike. There are regular discussions about mockups, design, and user testing. -->
-デザインチームとは、 WordPress におけるユーザーインターフェイスの設計と開発に重点をおき、デザイナーやUXデザイナーたちが、モックアップ、デザイン、ユーザーテストに関する定期的な議論をする場です。
+デザインチームとは、 WordPress におけるユーザーインターフェイスの設計と開発に重点をおき、デザイナーや UX デザイナーたちが、モックアップ、デザイン、ユーザーテストに関する定期的な議論をする場です。
 
 <!-- ## How to get involved? -->
 ## デザインチームに参加するには？
