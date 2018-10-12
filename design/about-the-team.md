@@ -2,16 +2,16 @@
 # デザインチームについて
 
 <!-- ## What is the Design Team? -->
-## デザインチームとは何か？
+## デザインチームとは何か ?
 
 <!-- The design group is focused on the designing and developing the user interface. It’s a home for designers and UXers alike. There are regular discussions about mockups, design, and user testing. -->
 デザインチームとは、 WordPress におけるユーザーインターフェイスの設計と開発に重点をおき、デザイナーや UX デザイナーたちが、モックアップ、デザイン、ユーザーテストに関する定期的な議論をする場です。
 
 <!-- ## How to get involved? -->
-## デザインチームに参加するには？
+## デザインチームに参加するには ?
 
 <!-- Are you interested in joining the Design Team? Great! The team is open to anyone who wants to help out, and the process is simple. If you would like to join the team here is a useful guide. -->
-デザインチームに興味がありますか？ いいですね！ このチームは協力したい人は誰でも参加可能で、その手順はシンプルです。 もしあなたがチームに参加したいのなら、以下が役立つガイドになるでしょう。
+デザインチームに興味がありますか ? いいですね ! このチームは協力したい人は誰でも参加可能で、その手順はシンプルです。 もしあなたがチームに参加したいのなら、以下が役立つガイドになるでしょう。
 
 <!-- ## Communication -->
 ## コミュニケーション
