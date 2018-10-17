@@ -13,6 +13,6 @@
 
 <!-- The WordPress.org logotype is built on the same set of metrics as the base WordPress identity. The same set of proportions apply, the only difference is the addition of the .org suffix. -->
 
-WordPress.orgのロゴタイプは、基本の WordPress アイデンティティと同じメトリックセットで構築されています。 比率の同じセットが適用されますが、唯一の違いは.orgが付く、ということです。
+WordPress.org のロゴタイプは、基本の WordPress アイデンティティと同じメトリックセットで構築されています。 比率の同じセットが適用されますが、唯一の違いは .org が付く、ということです。
 
 [![dotorg-logotype-metrics](https://i0.wp.com/make.wordpress.org/design/files/2016/01/dotorg-logotype-metrics.png?resize=776%2C505&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2016/01/dotorg-logotype-metrics.png?ssl=1)
