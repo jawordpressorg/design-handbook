@@ -4,6 +4,7 @@
 <!-- Giving design feedback is an excellent way to start getting involved in contributing to WordPress. There are a few places you can give feedback: -->
 デザインフィードバックを送ることは WordPress への貢献を始めるのに素晴らしい方法のひとつです。フィードバックはいくつかの場所で送ることができます。
 
+<!-- 
 *   As a comment on individual [t](https://core.trac.wordpress.org/)rac tickets.  
     We have different types that have the design team involved:
     *   **[Core tickets that need UI-feedback or UX-feedback ](https://core.trac.wordpress.org/tickets/ux-feedback)**  
@@ -15,7 +16,19 @@
         Besides WordPress software itself, we also work on the WordPress ecosystem. Tickets regarding this part are filed under meta.
 *   As a comment on the [Make/Design p2](https://make.wordpress.org/design/).
 *   On [Slack](https://make.wordpress.org/chat/).
-*   As a new issue, or comment, on a feature project’s GitHub.
+*   As a new issue, or comment, on a feature project’s GitHub. -->
+
+*   それぞれの Track tickets にコメントとして。  
+    デザインチームに参加するのにいくつか違う形式があります:
+    *   **[UI-feedback か UX-feedback が必要な コアチケット](https://core.trac.wordpress.org/tickets/ux-feedback)**  
+        このページ上に2つのリストがあることに注意してください。通常一番古いチケットから最初にやります。これらのチケットは現在 週次のトリアージで扱っています。[ミーティングのページで次の機会を見つけてください](https://make.wordpress.org/meetings/)。
+    *   **[デザインが必要なコアチケット](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-design&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=changetime&order=priority)**  
+        通常これらのリクエストはトリアージで議論するには大き過ぎる内容で、（チケットの）オーナーによってデザインの作成が必要とされているものです。リストを見て、あなたの興味や専門知識に合致したものがあるか見てください。これらのチケットはコントリビューターディにチームで取り組むのにも良いかもしれません。
+    *   **[UX-feedback](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)[または UI-feedback を必要としている Meta チケット](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords) **  
+    WordPress のソフトウェア以外にも、WordPress エコシステム上でも仕事があります。チケットはこのパートではメタとしてファイルされています。
+*   [Make/Design p2](https://make.wordpress.org/design/)上へのコメントとして。
+*   [Slack](https://make.wordpress.org/chat/)で。
+*   GitHub の将来的なプロジェクトへの新しい issue やコメントとして。
 
 <!-- Please keep in mind the following guidelines when giving feedback: -->
 フィードバックする時は以下のガイドラインに気をつけてください :
