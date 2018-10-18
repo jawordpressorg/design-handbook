@@ -5,7 +5,7 @@
 ということはあなたはデザインチームに貢献したいということですね ? それは素晴らしい。このチームは誰にでも開かれていて、簡単に始められます。まず初めに、温かい歓迎の意を。このプロジェクトにはデザイナーが必要なので、本当に歓迎します 🙂
 
 <!-- As a team we work on a lot of different things; from core to Dashicons and beyond. Here however are some good first steps as to how you can contribute to the design team. -->
-チームとして、私たちはコアのことからダッシュアイコンに至るまで、沢山の異なる事象について扱います。しかしながらここではまず、どのようにデザインチームに貢献できるのか、その始めの手順を紹介します。
+チームとして、私たちはコアのことから Dashicons に至るまで、沢山の異なる事象について扱います。しかしここではまず、どのようにデザインチームに貢献できるのか、その始めの手順を紹介します。
 
 <!-- 1.  Create a [WordPress.org user account](https://wordpress.org/support/register.php) or [login](https://login.wordpress.org/).
 2.  Join Slack and say ‘Hi’ – that way we can know you are looking to get involved and welcome you. Visit [chat.wordpress.org](http://chat.wordpress.org) and sign up using your WordPress.org user account.
