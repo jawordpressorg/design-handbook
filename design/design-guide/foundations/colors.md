@@ -2,9 +2,9 @@
 # カラー
 
 <!-- Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/)) -->
-色はブランド認知の為の重要な側面の1つです。正しい色相（色）を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
+色はブランド認知の為の重要な側面の1つです。正しい色相 (色) を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
 
-＜！-- ## Colors -->
+<!-- ## Colors -->
 ## カラー
 
 <!-- Colors are separated into three groups. The Blues, the Grays, and Auxiliary colors. The most recognizable colors are, obviously, the Blues and Grays. The Auxiliary hues can be used for various reasons, and come in a variety of values, with some tints (added white), tones (mix with another hue), and shades (added black) -->
