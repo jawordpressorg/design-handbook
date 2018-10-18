@@ -14,5 +14,5 @@
 
 1. [WordPress.org のユーザーアカウント](https://wordpress.org/support/register.php) を作成するか [ログイン](https://login.wordpress.org/)してください。
 2. Slack に参加して「こんにちは」と言いましょう。これでチームはあなたが参加しようとしていることを知り、歓迎することができます。[chat.wordpress.org](http://chat.wordpress.org) を訪れて WordPress.org のユーザーアカウントでサインアップしてください。
-3. [make.wordpress.org/design](https://make.wordpress.org/design) のブログを購読してください。このブログを購読してもらうことでチームと連絡を取り合い情報を更新できます。
+3. [make.wordpress.org/design](https://make.wordpress.org/design) ブログを購読します。このブログを購読することでチームとその最新情報を手に入れることができます。
 4. [ここで貢献する方法を見つけてください](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/)。
