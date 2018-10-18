@@ -17,7 +17,7 @@
 ## コミュニケーション
 
 <!-- The [Make WordPress Design blog](https://make.wordpress.org/design/) is where you’ll find meeting agendas and summaries and occasionally other topics. -->
-[Make WordPress Design blog](https://make.wordpress.org/design/) では、これまでの会議のアジェンダとその要約、また、その他のトピックを確認できます。
+[Make WordPress Design blog](https://make.wordpress.org/design/) では、これまでのミーティングのアジェンダとその要約、また、その他のトピックを確認できます。
 
 <!-- We communicate during meetings and asynchronously in the Slack [design channel](http://wordpress.slack.com/messages/design/). This is the best way to contact the team. -->
 チームでは、ミーティングをはじめ、Slack の [design channel](http://wordpress.slack.com/messages/design/) で、コミュニケーションをとっています。チームとコンタクトを取りたい場合は、Slack の [design channel](http://wordpress.slack.com/messages/design/) の利用をお勧めします。
@@ -47,7 +47,7 @@
 **フォローアップ**
 
 <!-- *See [Calls for Design column on Trello board](https://trello.com/b/fnHScayo/design-team). Anything to be archived? Follow up on in-progress cards, etc. Also see [needs-design tickets](https://core.trac.wordpress.org/query?status=!closed&keywords=~needs-design) from Trac.* -->
-*[Calls for Design column on Trello board](https://trello.com/b/fnHScayo/design-team) を確認しましょう。アーカイブすべきもの、進行中のカードなどのフォローアップをしてください。また、Tracの [needs-design tickets](https://core.trac.wordpress.org/query?status=!closed&keywords=~needs-design) も確認してみてください。*
+*[Calls for Design column on Trello board](https://trello.com/b/fnHScayo/design-team) を確認しましょう。アーカイブすべきもの、進行中のカードなどのフォローアップをしてください。また、Trac の [needs-design tickets](https://core.trac.wordpress.org/query?status=!closed&keywords=~needs-design) も確認してみてください。*
 
 
 <!-- **Housekeeping** -->
