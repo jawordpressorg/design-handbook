@@ -33,15 +33,24 @@
 <!-- Please keep in mind the following guidelines when giving feedback: -->
 フィードバックする時は以下のガイドラインに気をつけてください :
 
-*   **Empathize**. Remember that behind every design is a person. If you wouldn’t give this feedback to someone’s face, don’t say it on the internet.
+<!-- *   **Empathize**. Remember that behind every design is a person. If you wouldn’t give this feedback to someone’s face, don’t say it on the internet.
 *   Consider starting with “I think…” and finish with “because…”.
 *   Comment on particular elements that don’t work in the design, like the typography, colors, hierarchy, and composition. Try to be as specific as possible. If you’re unable to articulate what feels wrong, we can help guide your feedback — just be patient with our follow-up questions.
 *   One of the best things to do when giving feedback is to try to separate the problem from how we would like it to be solved.
 *   Try to stick to goal-oriented feedback, rather than criticism. Tell us the outcome your feedback is trying to achieve.
 *   Provide context for your feedback. Why do you think this design wouldn’t work for your use case? Talk about how you use WordPress, and how this update or feature would affect your ability to write or manage your site.
-*   Frame feedback as suggestions, not mandates. “What if you…” and “How about if you tried…” are great ways to present alternate ideas to a designer.
+*   Frame feedback as suggestions, not mandates. “What if you…” and “How about if you tried…” are great ways to present alternate ideas to a designer. -->
 
-Here are some examples of giving good and bad feedback:
+*   **共感しましょう**。 すべてのデザインの背景に人が居ることを覚えていてください。そのフィードバックを誰かの顔に向けて言えないないなら、インターネット上でも言わないでください。
+*   「私は … と考えます」で始めて「なぜなら … 」で終えるように配慮してください。
+*  タイポグラフィ、カラー、階層、構成などといった、そのデザインにおいて機能していない特定の要素についてコメントしましょう。できるだけ具体的であるようにしましょう。もし間違っていると感じることを明確にできないのであれば、私たちがフィードバックのガイドを手伝えます。ちょっと私たちの引き続いての質問に対して忍耐強くしてください。
+*   フィードバックを送る際に最も良いことの1つは、その問題を解決したいと思う方法から切り離すことです。
+*   批判するよりも、ゴール思考のフィードバックをするようにしましょう。あなたのフィードバックが達成しようとしている成果を教えてください。
+*   フィードバックに文脈を提供してください。なぜこのデザインがあなたのユースケースではうまく機能しないと思いますか ? どのように WordPress を使用しているか、このアップデートや機能がサイトの作成や管理にどのような影響を与えるかについて話してください。
+*   命令ではなく提案としてフィードバックをまとめてください。「もしあなたが … 」と 「どうしようとしたら … 」というのは、デザイナーに代案を提示する素晴らしい方法です。
+
+<!-- Here are some examples of giving good and bad feedback: -->
+良いフィードバックと悪いフィードバックを与えるいくつかの例を以下に示します :
 
 **❌ BAD**
 
