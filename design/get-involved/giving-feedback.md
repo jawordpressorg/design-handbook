@@ -55,33 +55,44 @@
 <!-- **❌ BAD**
 
 > This new default theme is totally useless. I need a business theme, not another blog theme. -->
-
-**❌ 悪い**
+**❌ BAD**
 
 > この新しいデフォルトのテーマはまったく役に立たない。私は別のブログのテーマではなく、ビジネステーマが必要です。
 
 <!-- **✅ GOOD**
 
 > I think that WordPress has been making a lot of blog themes in the past couple years. It would be great for this next theme to include some more business-oriented features, because that’s the majority of sites I’m making for my clients and I’d love to use this theme as a base. What if you added a business-oriented template for the homepage? For example, it could include… (etc.) -->
-
-**✅ 良い**
+**✅ GOOD**
 
 > WordPress は過去数年に渡って沢山のブログのテーマを作ってきたと思います。この次のテーマでは、私がクライアントのために作っているサイトの大部分であり、このテーマをベースにしたいと思っているので、いくつかのビジネス指向の機能を追加することは素晴らしいことです。ホームページにビジネス指向のテンプレートを追加した場合はどうなりますか？たとえば、...（など。）
 
+<!-- **❌ BAD**
+
+> I just need a button that opens the customization tool directly. -->
 **❌ BAD**
 
-> I just need a button that opens the customization tool directly.
+> カスタマイズツールを直接開くボタンが必要です。
 
+<!-- **✅ GOOD**
+
+> On this page, I have no idea where to go anymore to customize the site, so I’m a bit lost. I think a button at the top would help because then it will be more obvious where I need to click. -->
 **✅ GOOD**
 
-> On this page, I have no idea where to go anymore to customize the site, so I’m a bit lost. I think a button at the top would help because then it will be more obvious where I need to click.
+> このページにおいて、サイトのカスタマイズをするためにどうすれば良いか分からず、少し迷いました。トップにボタンがあると、クリックする必要がある場所がより明白になるので助かると思います。
 
+<!-- **❌ BAD**
+
+> I hate this change. Adding images is terrible. Every time, I have to go through all these steps from the post, to the gallery, to the caption, and back. Can’t we just have a nice interface to manage all the images at once? -->
 **❌ BAD**
 
-> I hate this change. Adding images is terrible. Every time, I have to go through all these steps from the post, to the gallery, to the caption, and back. Can’t we just have a nice interface to manage all the images at once?
+この変更は嫌です。画像の追加はひどいです。毎回、投稿からギャラリーへ、キャプションへ全てのこれらのステップを踏んで戻らないといけません。一度に全ての画像を管理できる良いインターフェイスは無いものでしょうか ?
 
+<!-- **✅ GOOD**
+
+> I write a travel blog and each post represent a specific day or trip I do. Each post has a nice gallery attached to it, where I curate the sequence of the photos and add a caption for each one of them. Order and description are very important, that’s why I need something that allows me to manage all these photos together. -->
 **✅ GOOD**
 
-> I write a travel blog and each post represent a specific day or trip I do. Each post has a nice gallery attached to it, where I curate the sequence of the photos and add a caption for each one of them. Order and description are very important, that’s why I need something that allows me to manage all these photos together.
+> 私は旅行ブログを書いて、それぞれの投稿は私が行う特定の日や旅行を表しています。 それぞれの投稿には素敵なギャラリーが付いていて、写真の並び順とそれぞれのキャプションを追加しています。 順序と説明は非常に重要なので、私はこれらの写真を一緒に管理できるようなものが必要です。
 
-Thanks for getting involved with WordPress. We hope to receive your feedback soon!
+<!-- Thanks for getting involved with WordPress. We hope to receive your feedback soon! -->
+WordPress に参加してくれてありがとうございます。あなたのフィードバックをお待ちしています !
