@@ -2,7 +2,7 @@
 # フィードバックを送る
 
 <!-- Giving design feedback is an excellent way to start getting involved in contributing to WordPress. There are a few places you can give feedback: -->
-デザインフィードバックを送ることは WordPress への貢献を始めるのに素晴らしい方法のひとつです。フィードバックはいくつかの場所で送ることができます。
+デザインのフィードバックを送ることは WordPress への貢献を始めるのに素晴らしい方法です。フィードバックはいくつかの場所で送ることができます。
 
 <!-- 
 *   As a comment on individual [t](https://core.trac.wordpress.org/)rac tickets.  
@@ -18,13 +18,13 @@
 *   On [Slack](https://make.wordpress.org/chat/).
 *   As a new issue, or comment, on a feature project’s GitHub. -->
 
-*   それぞれの Track tickets にコメントとして。  
-    デザインチームに参加するのにいくつか違う形式があります:
+*   それぞれのトラックチケットにコメントとして。  
+    デザインチームに参加するにはさまざまなタイプがあります:
     *   **[UI-feedback か UX-feedback が必要な コアチケット](https://core.trac.wordpress.org/tickets/ux-feedback)**  
-        このページ上に2つのリストがあることに注意してください。通常一番古いチケットから最初にやります。これらのチケットは現在 週次のトリアージで扱っています。[ミーティングのページで次の機会を見つけてください](https://make.wordpress.org/meetings/)。
+        このページ上に2つのリストがあることに注意してください。通常一番古いチケットから最初にやります。これらのチケットは現在週次のトリアージで扱っています。[ミーティングのページで次の機会を見つけてください](https://make.wordpress.org/meetings/)。
     *   **[デザインが必要なコアチケット](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-design&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=changetime&order=priority)**  
         通常これらのリクエストはトリアージで議論するには大き過ぎる内容で、（チケットの）オーナーによってデザインの作成が必要とされているものです。リストを見て、あなたの興味や専門知識に合致したものがあるか見てください。これらのチケットはコントリビューターディにチームで取り組むのにも良いかもしれません。
-    *   **[UX-feedback](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)[または UI-feedback を必要としている Meta チケット](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)**  
+    *   **[UX-feedback](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)[または UI-feedback を必要としているメタチケット](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)**  
     WordPress のソフトウェア以外にも、WordPress エコシステム上でも仕事があります。チケットはこのパートではメタとしてファイルされています。
 *   [Make/Design p2](https://make.wordpress.org/design/)上へのコメントとして。
 *   [Slack](https://make.wordpress.org/chat/)で。
@@ -43,28 +43,28 @@
 
 *   **共感しましょう**。 すべてのデザインの背景に人が居ることを覚えていてください。そのフィードバックを誰かの顔に向けて言えないないなら、インターネット上でも言わないでください。
 *   「私は … と考えます」で始めて「なぜなら … 」で終えるように配慮してください。
-*  タイポグラフィ、カラー、階層、構成などといった、そのデザインにおいて機能していない特定の要素についてコメントしましょう。できるだけ具体的であるようにしましょう。もし間違っていると感じることを明確にできないのであれば、私たちがフィードバックのガイドを手伝えます。ちょっと私たちの引き続いての質問に対して忍耐強くしてください。
+*  タイポグラフィ、カラー、階層、構成などといった、そのデザインにおいて機能していない特定の要素についてコメントしてください。できるだけ具体的であるようにしましょう。もし間違っていると感じることを明確にできないのであれば、私たちがフィードバックのガイドを手伝えます。ちょっと私たちの引き続いての質問に対して忍耐強くしてください。
 *   フィードバックを送る際に最も良いことの1つは、その問題を解決したいと思う方法から切り離すことです。
 *   批判するよりも、ゴール思考のフィードバックをするようにしましょう。あなたのフィードバックが達成しようとしている成果を教えてください。
 *   フィードバックに文脈を提供してください。なぜこのデザインがあなたのユースケースではうまく機能しないと思いますか ? どのように WordPress を使用しているか、このアップデートや機能がサイトの作成や管理にどのような影響を与えるかについて話してください。
 *   命令ではなく提案としてフィードバックをまとめてください。「もしあなたが … 」と 「どうしようとしたら … 」というのは、デザイナーに代案を提示する素晴らしい方法です。
 
 <!-- Here are some examples of giving good and bad feedback: -->
-良いフィードバックと悪いフィードバックを与えるいくつかの例を以下に示します :
+良い (GOOD) フィードバックと悪い (BAD) フィードバックのいくつかの例を以下に示します :
 
 <!-- **❌ BAD**
 
 > This new default theme is totally useless. I need a business theme, not another blog theme. -->
 **❌ BAD**
 
-> この新しいデフォルトのテーマはまったく役に立たない。私は別のブログのテーマではなく、ビジネステーマが必要です。
+> この新しいデフォルトのテーマはまったく役に立たない。私には別のブログのテーマではなく、ビジネステーマが必要です。
 
 <!-- **✅ GOOD**
 
 > I think that WordPress has been making a lot of blog themes in the past couple years. It would be great for this next theme to include some more business-oriented features, because that’s the majority of sites I’m making for my clients and I’d love to use this theme as a base. What if you added a business-oriented template for the homepage? For example, it could include… (etc.) -->
 **✅ GOOD**
 
-> WordPress は過去数年に渡って沢山のブログのテーマを作ってきたと思います。この次のテーマでは、私がクライアントのために作っているサイトの大部分であり、このテーマをベースにしたいと思っているので、いくつかのビジネス指向の機能を追加することは素晴らしいことです。ホームページにビジネス指向のテンプレートを追加した場合はどうなりますか？たとえば、...（など。）
+> WordPress は過去数年に渡って沢山のブログのテーマを作ってきたと思います。この次のテーマでは、私がクライアントのために作っているサイトの大部分であり、このテーマをベースにしたいと思っているので、いくつかのビジネス指向の機能を追加することは素晴らしいことです。ホームページにビジネス指向のテンプレートを追加した場合はどうなりますか？たとえば、… (など。)
 
 <!-- **❌ BAD**
 
