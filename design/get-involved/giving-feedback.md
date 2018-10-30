@@ -18,20 +18,20 @@
 *   On [Slack](https://make.wordpress.org/chat/).
 *   As a new issue, or comment, on a feature project’s GitHub. -->
 
-*   それぞれのトラックチケットにコメントとして。  
-    デザインチームに参加するにはさまざまなタイプがあります:
+*   [Trac チケット](https://core.trac.wordpress.org/)へのコメント  
+    デザインチームが参加するチケットにはいくつかのタイプがあります:
     *   **[UI-feedback か UX-feedback が必要な コアチケット](https://core.trac.wordpress.org/tickets/ux-feedback)**  
-        このページ上に2つのリストがあることに注意してください。通常一番古いチケットから最初にやります。これらのチケットは現在週次のトリアージで扱っています。[ミーティングのページで次の機会を見つけてください](https://make.wordpress.org/meetings/)。
+        このページ上に2つのリストがあることに注意してください。通常古いものから新しいものの順に見ていきます。これらのチケットは現在週次のトリアージで扱っています。[ミーティングのページで次の機会を見つけてください](https://make.wordpress.org/meetings/)。
     *   **[デザインが必要なコアチケット](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-design&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=changetime&order=priority)**  
-        通常これらのリクエストはトリアージで議論するには大き過ぎる内容で、（チケットの）オーナーによってデザインの作成が必要とされているものです。リストを見て、あなたの興味や専門知識に合致したものがあるか見てください。これらのチケットはコントリビューターディにチームで取り組むのにも良いかもしれません。
+        通常これらのリクエストはトリアージで議論するには大き過ぎる内容で、(チケットの) オーナーによってデザインの作成が必要とされているものです。リストを見て、あなたの興味や専門知識に合致したものがあるか見てください。これらのチケットはコントリビューターデイにチームで取り組むのにも良いかもしれません。
     *   **[UX-feedback](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)[または UI-feedback を必要としているメタチケット](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=component&col=time&col=changetime&report=9&order=keywords)**  
     WordPress のソフトウェア以外にも、WordPress エコシステム上でも仕事があります。チケットはこのパートではメタとしてファイルされています。
-*   [Make/Design p2](https://make.wordpress.org/design/)上へのコメントとして。
-*   [Slack](https://make.wordpress.org/chat/)で。
+*   [Make/Design p2](https://make.wordpress.org/design/) 上へのコメントとして。
+*   [Slack](https://make.wordpress.org/chat/) で。
 *   GitHub の将来的なプロジェクトへの新しい issue やコメントとして。
 
 <!-- Please keep in mind the following guidelines when giving feedback: -->
-フィードバックを送る時は以下のガイドラインに従ってください : 
+フィードバックを送る時は以下のガイドラインに従ってください :
 
 <!-- *   **Empathize**. Remember that behind every design is a person. If you wouldn’t give this feedback to someone’s face, don’t say it on the internet.
 *   Consider starting with “I think…” and finish with “because…”.
@@ -85,14 +85,14 @@
 > I hate this change. Adding images is terrible. Every time, I have to go through all these steps from the post, to the gallery, to the caption, and back. Can’t we just have a nice interface to manage all the images at once? -->
 **❌ BAD**
 
-この変更は嫌です。画像の追加はひどいです。毎回、投稿からギャラリーへ、キャプションへ全てのこれらのステップを踏んで戻らないといけません。一度に全ての画像を管理できる良いインターフェイスは無いものでしょうか ?
+この変更は嫌です。画像の追加はひどいです。毎回、投稿からギャラリーへ、キャプションへすべてのこれらのステップを踏んで戻らないといけません。一度に全ての画像を管理できる良いインターフェイスは無いものでしょうか ?
 
 <!-- **✅ GOOD**
 
 > I write a travel blog and each post represent a specific day or trip I do. Each post has a nice gallery attached to it, where I curate the sequence of the photos and add a caption for each one of them. Order and description are very important, that’s why I need something that allows me to manage all these photos together. -->
 **✅ GOOD**
 
-> 私は旅行ブログを書いて、それぞれの投稿は私が行う特定の日や旅行を表しています。 それぞれの投稿には素敵なギャラリーが付いていて、写真の並び順とそれぞれのキャプションを追加しています。 順序と説明は非常に重要なので、私はこれらの写真を一緒に管理できるようなものが必要です。
+> 私は旅行ブログを書いて、それぞれの投稿は私が行う特定の日や旅行を表しています。 それぞれの投稿には素敵なギャラリーが付いていて、写真の並び順とそれぞれのキャプションを追加しています。 順序と説明は非常に重要なので、私はこれらの写真を一緒に管理出来るようなものがあると嬉しいです。
 
 <!-- Thanks for getting involved with WordPress. We hope to receive your feedback soon! -->
 WordPress に参加してくれてありがとうございます。あなたのフィードバックをお待ちしています !
