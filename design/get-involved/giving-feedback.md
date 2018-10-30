@@ -85,7 +85,7 @@
 > I hate this change. Adding images is terrible. Every time, I have to go through all these steps from the post, to the gallery, to the caption, and back. Can’t we just have a nice interface to manage all the images at once? -->
 **❌ BAD**
 
-この変更は嫌です。画像の追加はひどいです。毎回、投稿からギャラリーへ、キャプションへすべてのこれらのステップを踏んで戻らないといけません。一度に全ての画像を管理できる良いインターフェイスは無いものでしょうか ?
+> この変更は嫌です。画像の追加はひどいです。毎回、投稿からギャラリーへ、キャプションへすべてのこれらのステップを踏んで戻らないといけません。一度に全ての画像を管理できる良いインターフェイスは無いものでしょうか ?
 
 <!-- **✅ GOOD**
 
