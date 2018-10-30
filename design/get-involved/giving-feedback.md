@@ -31,7 +31,7 @@
 *   GitHub の将来的なプロジェクトへの新しい issue やコメントとして。
 
 <!-- Please keep in mind the following guidelines when giving feedback: -->
-フィードバックする時は以下のガイドラインに気をつけてください :
+フィードバックを送る時は以下のガイドラインに従ってください : 
 
 <!-- *   **Empathize**. Remember that behind every design is a person. If you wouldn’t give this feedback to someone’s face, don’t say it on the internet.
 *   Consider starting with “I think…” and finish with “because…”.
