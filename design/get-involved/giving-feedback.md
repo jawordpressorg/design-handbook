@@ -57,14 +57,14 @@
 > This new default theme is totally useless. I need a business theme, not another blog theme. -->
 **❌ BAD**
 
-> この新しいデフォルトのテーマはまったく役に立たない。私には別のブログのテーマではなく、ビジネステーマが必要です。
+> この新しいデフォルトのテーマはまったく役に立たない。私にはブログテーマではなく、ビジネステーマが必要です。
 
 <!-- **✅ GOOD**
 
 > I think that WordPress has been making a lot of blog themes in the past couple years. It would be great for this next theme to include some more business-oriented features, because that’s the majority of sites I’m making for my clients and I’d love to use this theme as a base. What if you added a business-oriented template for the homepage? For example, it could include… (etc.) -->
 **✅ GOOD**
 
-> WordPress は過去数年に渡って沢山のブログのテーマを作ってきたと思います。この次のテーマでは、私がクライアントのために作っているサイトの大部分であり、このテーマをベースにしたいと思っているので、いくつかのビジネス指向の機能を追加することは素晴らしいことです。ホームページにビジネス指向のテンプレートを追加した場合はどうなりますか？たとえば、… (など。)
+> WordPress は過去数年に渡って沢山のブログのテーマを作ってきたと思います。この次のテーマでは、私がクライアントのために作っているサイトの大部分であり、このテーマをベースにしたいと思っているので、いくつかのビジネス指向の機能を追加していただけると嬉しく思います。ホームページにビジネス指向のテンプレートを追加した場合はどうなりますか？たとえば、… (など。)
 
 <!-- **❌ BAD**
 
