@@ -8,8 +8,9 @@ design ディレクトリ内にある英文を翻訳していきます。
 
 ## 翻訳の始め方
 
-1. [翻訳中のページの一覧](https://github.com/miminari/design-handbook/projects/1) をチェックします。
-2. 翻訳したいページが含まれていないことを確認したら、新たに[翻訳用の Issue をテンプレートに沿って作成](https://github.com/miminari/design-handbook/issues/new?template=translate-issue-template.md)します。
+1. [みんなでデザインハンドブックを翻訳の In progress ](https://github.com/miminari/design-handbook/projects/1) をチェックします。
+2. 翻訳したいページが含まれていないことを確認したら、翻訳したいページのIssueをTo Doから探して翻訳開始をコメントで宣言してください。
+3. 翻訳開始の前に原文が更新されてないか目視でざっくりで良いので確認してから作業を始めていただけると助かります。
 
 ## 翻訳方法
 
