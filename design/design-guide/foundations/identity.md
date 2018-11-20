@@ -8,13 +8,20 @@
 
 WordPress のプロジェクトが生まれたちょっと後に、Matt Mullenweg はオリジナルのロゴをデザインしました。それは Adobe [Dante](https://www.myfonts.com/fonts/adobe/dante/) 書体で設定された単語「WordPress」にすぎませんでした。今日私たちが知る WordPress のロゴタイプは2005年初めに [Jason Santa Maria](http://jasonsantamaria.com/) によって作られました。彼は２つの Emigre 書体を “WordPress” の文字に使用しました。[Mrs. Eaves Small Caps](http://www.myfonts.com/fonts/emigre/mrs-eaves-ot/small-caps-ot/ "Emigre: Mrs. Eaves Small Caps")を “WordPress” の文字に、[Dalliance](http://www.myfonts.com/fonts/emigre/dalliance-ot/roman/glyphs.html#glyphs/322943/77 "Emigre: Dalliance")を “W” のマークに使いました。このデザインは後に [Matt Miklic](http://mattmiklic.com/) (以前は Matt Thomas, または MT として知られていました) によって視覚的に洗練されました。彼はコアデザインのリードで、初期から WordPress ブランドの形成に助力しました。そして後に、このハンドブックを作成している間に [Hugo Baeta](http://hugobaeta.com) によってバランスとプロポーションの調整がなされました。
 
-[![WordPress Logotype](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?resize=776%2C263&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?ssl=1)
+<!-- [![WordPress Logotype](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?resize=776%2C263&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?ssl=1) -->
 
-[![WordPress Logotype Alternative](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1)
+[![WordPress ロゴタイプ](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?resize=776%2C263&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-standard.png?ssl=1)
 
-## Metrics
+<!-- [![WordPress Logotype Alternative](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1) -->
 
-The Logotype is composed of the W mark, and the “WordPress” wordmark. The proportional relationship between the two are demonstrated below. The W mark dictates the set of proportions for the whole logotype, and the wordmark is half the height of the W mark. There is a set safety margin around the logo, that measures half the size of the W mark. These proportions define the relationship of the logo in the main version as well as the alternate version (the one with the W mark on top of the wordmark).
+[![WordPress ロゴタイプ　別バージョン](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1)
+
+<!-- ## Metrics  -->
+## メトリックス
+
+<!-- The Logotype is composed of the W mark, and the “WordPress” wordmark. The proportional relationship between the two are demonstrated below. The W mark dictates the set of proportions for the whole logotype, and the wordmark is half the height of the W mark. There is a set safety margin around the logo, that measures half the size of the W mark. These proportions define the relationship of the logo in the main version as well as the alternate version (the one with the W mark on top of the wordmark). -->
+
+ロゴタイプは W マークと、“WordPress” の文字商標とで構成されています。この２つの間の比例関係を以下に示します。 The W mark dictates the set of proportions for the whole logotype, and the wordmark is half the height of the W mark. There is a set safety margin around the logo, that measures half the size of the W mark. These proportions define the relationship of the logo in the main version as well as the alternate version (the one with the W mark on top of the wordmark).
 
 [![WordPress Logotype Metrics](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?resize=776%2C665&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?ssl=1)
 
