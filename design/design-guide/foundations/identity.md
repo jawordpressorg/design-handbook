@@ -14,20 +14,23 @@ WordPress のプロジェクトが生まれたちょっと後に、Matt Mullenwe
 
 <!-- [![WordPress Logotype Alternative](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1) -->
 
-[![WordPress ロゴタイプ　別バージョン](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1)
+[![WordPress ロゴタイプ　代替バージョン](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?resize=776%2C420&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-01-alternative.png?ssl=1)
 
 <!-- ## Metrics  -->
 ## メトリックス
 
 <!-- The Logotype is composed of the W mark, and the “WordPress” wordmark. The proportional relationship between the two are demonstrated below. The W mark dictates the set of proportions for the whole logotype, and the wordmark is half the height of the W mark. There is a set safety margin around the logo, that measures half the size of the W mark. These proportions define the relationship of the logo in the main version as well as the alternate version (the one with the W mark on top of the wordmark). -->
 
-ロゴタイプは W マークと、“WordPress” の文字商標とで構成されています。この２つの間の比例関係を以下に示します。 The W mark dictates the set of proportions for the whole logotype, and the wordmark is half the height of the W mark. There is a set safety margin around the logo, that measures half the size of the W mark. These proportions define the relationship of the logo in the main version as well as the alternate version (the one with the W mark on top of the wordmark).
+ロゴタイプは W マークと、“WordPress” の文字商標とで構成されています。この２つの間の比例関係を以下に示します。 W マークはロゴタイプ全体の比率に影響し、文字商標は W マークの半分の高さとなっています。ロゴの周りにはセーフティマージンが設定され、W マークの半分のサイズとなっています。これらの比率は代替バージョン( 文字商標の上に W マークがあります )と同様に主要バージョンのロゴの関係を定義しています。
 
-[![WordPress Logotype Metrics](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?resize=776%2C665&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?ssl=1)
+<!-- [![WordPress Logotype Metrics](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?resize=776%2C665&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?ssl=1) -->
 
-## Downloads
+[![WordPress ロゴタイプのメトリクス](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?resize=776%2C665&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2015/02/logotype-02-metrics.png?ssl=1)
 
-*   ![WordPress Logotypes - All Versions](https://i2.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-allversions-download.png?w=776&ssl=1)
+<!-- ## Downloads -->
+## ダウンロード
+
+<!-- *   ![WordPress Logotypes - All Versions](https://i2.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-allversions-download.png?w=776&ssl=1)
     
     **WordPress Logotypes** All Versions
     
@@ -60,4 +63,39 @@ WordPress のプロジェクトが生まれたちょっと後に、Matt Mullenwe
     
     *   [PDF (Vector)](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark.pdf)
     *   [PNG (BaseGray/transparent)](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark.png)
-    *   [PNG (White/transparent)](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark-white.png)
+    *   [PNG (White/transparent)](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark-white.png) -->
+*   ![WordPress ロゴタイプ - 全バージョン](https://i2.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-allversions-download.png?w=776&ssl=1)
+    
+    **WordPress ロゴタイプ** 全バージョン
+    
+    *   [Adobe Illustrator CS5+](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-all.ai_.zip)
+    *   [Sketch 3](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-all.sketch.zip)
+*   ![WordPress ロゴタイプ - スタンダード](https://i0.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-standard-download.png?w=776&ssl=1)
+    
+    **WordPress ロゴタイプ** スタンダード
+    
+    *   [PDF ( ベクター )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-standard.pdf)
+    *   [PNG ( グレイベース / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-standard.png)
+    *   [PNG ( 白 / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-standard-white.png)
+*   ![WordPress ロゴタイプ - 代替バージョン](https://i0.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-alternative-download.png?w=776&ssl=1)
+    
+    **WordPress ロゴタイプ** 代替バージョン、縦組み
+    
+    *   [PDF ( ベクター )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-alternative.pdf)
+    *   [PNG ( グレイベース / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-alternative.png)
+    *   [PNG ( 白 / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-alternative-white.png)
+*   ![WordPress ロゴタイプ - 文字商標](https://i0.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-wordmark-download.png?w=776&ssl=1)
+    
+    **WordPress ロゴタイプ** 文字商標
+    
+    *   [PDF ( ベクター )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wordmark.pdf)
+    *   [PNG ( グレイベース / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wordmark.png)
+    *   [PNG ( 白 / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wordmark-white.png)
+*   ![WordPress ロゴタイプ - W マーク](https://i0.wp.com/make.wordpress.org/design/files/2015/02/wordpress-logotype-wmark-download.png?w=776&ssl=1)
+    
+    **WordPress ロゴタイプ** W マーク
+    
+    *   [PDF ( ベクター )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark.pdf)
+    *   [PNG ( グレイベース / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark.png)
+    *   [PNG ( 白 / 透過 )](https://make.wordpress.org/design/files/2016/09/WordPress-logotype-wmark-white.png)
+
