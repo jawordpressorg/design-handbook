@@ -5,9 +5,11 @@
 <!-- First up, thanks for being amazing and taking time to run a design section at your contribution day. This guide hopefully will allow you to do that easily. -->
 まず、コントリビューションデイでデザインセクションを開催するのは素晴らしいことです！ありがとう！きっと、このガイドが助けになるでしょう。
 
-## Why
+<!-- ## Why -->
+## なぜ開催？
 
-It is really important we have design represented at the contribution days. It is a way for us to get new contributions and also get to meet each other.
+<!-- It is really important we have design represented at the contribution days. It is a way for us to get new contributions and also get to meet each other. -->
+コントリビューションデイにおいて、デザインに注目するのはとても重要です。それは新たな貢献の場であり、お互いに知り合う場でもあります。
 
 ## Before the event
 
