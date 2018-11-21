@@ -1,8 +1,8 @@
-<!— # Leading a contribution day —>
+<!-- # Leading a contribution day -->
 # コントリビューションデイをリードする
 
 
-<!— First up, thanks for being amazing and taking time to run a design section at your contribution day. This guide hopefully will allow you to do that easily. —>
+<!-- First up, thanks for being amazing and taking time to run a design section at your contribution day. This guide hopefully will allow you to do that easily. -->
 まず、コントリビューションデイでデザインセクションを開催するのは素晴らしいことです！ありがとう！きっと、このガイドが助けになるでしょう。
 
 ## Why
