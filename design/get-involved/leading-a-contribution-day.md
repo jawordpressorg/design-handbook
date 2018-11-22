@@ -11,9 +11,10 @@
 <!-- It is really important we have design represented at the contribution days. It is a way for us to get new contributions and also get to meet each other. -->
 コントリビューションデイにおいて、デザインに注目するのはとても重要です。それは新たな貢献の場であり、お互いに知り合う場でもあります。
 
-## Before the event
+<!-- ## Before the event -->
+## イベントの前に
 
-*   Let us know in the [Slack channel #design](https://wordpress.slack.com/messages/C02S78ZAL) that you are going to be doing this. This way we can support you. If you tell us the time we may even be around to support remotely – please ask if you need this.
+<!-- *   Let us know in the [Slack channel #design](https://wordpress.slack.com/messages/C02S78ZAL) that you are going to be doing this. This way we can support you. If you tell us the time we may even be around to support remotely – please ask if you need this.
 *   Ask for anything that needs help on. We have [weekly Slack meetings](https://wordpress.slack.com/messages/C02S78ZAL), coming to those and asking for what needs doing and letting us know, would get you instant feedback. [Check the next meeting time in the agenda.](https://make.wordpress.org/meetings/)
 *   Ask the organisers of the contribution day how many people you will have at the day. This way you can know what to expect.
 *   Familiarise yourself with the following handbook pages:
@@ -27,7 +28,13 @@
     *   **Communication:** Get everyone set up on [Slack and subscribed to the make blog](https://make.wordpress.org/design/handbook/about-the-team/#communication).
     *   **Begin your session:** your role will be to support their contributions. As a lead of the day, you will unlikely get much contributing done, that’s OK as your contribution is helping all these people – that’s an incredible contribution.
     *   **Write the tasks out:** you can either do this on a whiteboard(if have one), with post-its or digitally in the Slack channel [#design](https://make.wordpress.org/design/tag/design/). Some may join your team later in the day and this means they can catch up. Also, it saves you repeating things all day.
-    *   **The end**: at the end of the day you may be asked to summarise what your team did. Take a few minutes before the close to have a list of things ready.
+    *   **The end**: at the end of the day you may be asked to summarise what your team did. Take a few minutes before the close to have a list of things ready. -->
+*   ぜひ [Slack channel #design](https://wordpress.slack.com/messages/C02S78ZAL) で、開催予定を知らせてください。何かお手伝いできることがあるかもしれません。また、時間を知らせてくれたらリモートでサポートできるかもしれません。必要な時は教えてくださいね。
+*   それ以外にも、いつでも助けが必要な時は教えてください。デザインチームの[weekly Slack meetings](https://wordpress.slack.com/messages/C02S78ZAL) に来てくれたら、すぐにフィードバックが得られるでしょう。[アジェンダで次のミーティングをチェック！](https://make.wordpress.org/meetings/)
+*   コントリビューションデイのオーガナイザーに、参加者数を確認しましょう。当日の内容を設定しやすくなります。
+*   ハンドブックの以下のページを熟読しましょう。
+		*   [はじめの一歩](https://make.wordpress.org/design/handbook/get-involved/first-steps/): 参加者のウォーミングアップに。
+		*   [Areas to contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/): 参加者が当日何ができるかの目安に。
 
 ## On the day
 
