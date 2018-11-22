@@ -30,11 +30,11 @@
     *   **Write the tasks out:** you can either do this on a whiteboard(if have one), with post-its or digitally in the Slack channel [#design](https://make.wordpress.org/design/tag/design/). Some may join your team later in the day and this means they can catch up. Also, it saves you repeating things all day.
     *   **The end**: at the end of the day you may be asked to summarise what your team did. Take a few minutes before the close to have a list of things ready. -->
 *   ぜひ [Slack channel #design](https://wordpress.slack.com/messages/C02S78ZAL) で、開催予定を知らせてください。何かお手伝いできることがあるかもしれません。また、時間を知らせてくれたらリモートでサポートできるかもしれません。必要な時は教えてくださいね。
-*   それ以外にも、いつでも助けが必要な時は教えてください。デザインチームの[weekly Slack meetings](https://wordpress.slack.com/messages/C02S78ZAL) に来てくれたら、すぐにフィードバックが得られるでしょう。[アジェンダで次のミーティングをチェック！](https://make.wordpress.org/meetings/)
+*   それ以外にも、いつでも助けが必要な時は教えてください。デザインチームの [weekly Slack meetings](https://wordpress.slack.com/messages/C02S78ZAL) に来てくれたら、すぐにフィードバックが得られるでしょう。[アジェンダで次のミーティングをチェック！](https://make.wordpress.org/meetings/)
 *   コントリビューションデイのオーガナイザーに、参加者数を確認しましょう。当日の内容を設定しやすくなります。
 *   ハンドブックの以下のページを熟読しましょう。
-		*   [はじめの一歩](https://make.wordpress.org/design/handbook/get-involved/first-steps/): 参加者のウォーミングアップに。
-		*   [Areas to contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/): 参加者が当日何ができるかの目安に。
+    *   [はじめの一歩](https://make.wordpress.org/design/handbook/get-involved/first-steps/): 参加者のウォーミングアップに。
+    *   [Areas to contribute](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/): 参加者が当日何ができるかの目安に。
 
 ## On the day
 
