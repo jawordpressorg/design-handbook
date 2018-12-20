@@ -1,10 +1,14 @@
-# Areas to contribute
+<!-- # Areas to contribute -->
+# 貢献するエリア
 
-As a team we contribute by supporting design across the entire project. Listed here are just some of the ways you can contribute currently.
+<!-- As a team we contribute by supporting design across the entire project. Listed here are just some of the ways you can contribute currently. -->
+チームとして、プロジェクト全体についてデザインでサポートすることで貢献します。ここにリストされているのは、あなたが現在貢献できる方法の一部です。
 
-## Core Trac design feedback
+<!-- ## Core Trac design feedback -->
+## コアトラックのデザインフィードバック
 
-We have two keywords in trac which we as a team can help with: ‘ux-feedback’ and ‘ui-feedback’. What is trac? Trac is where bugs are reported and enhancement requests are made for WordPress.
+<!-- We have two keywords in trac which we as a team can help with: ‘ux-feedback’ and ‘ui-feedback’. What is trac? Trac is where bugs are reported and enhancement requests are made for WordPress. -->
+trac には、チームとして役立つ2つのキーワード ‘ux-feedback’ と ‘ui-feedback’ があります。 trac とは何でしょう？ Trac は、WordPress に対するバグが報告されたり、拡張のリクエストが送られている処です。
 
 Ideally to do this, you will have a working [local testing environment](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/), however some tickets you will not need that for. Here is how a typical workflow would look for feedback in trac:
 
@@ -21,7 +25,8 @@ Ideally to do this, you will have a working [local testing environment](https://
 
 Note: Please note that mentioning the a trac ticket on Slack will change its date. This means that it will move in the triage list. So if you do so, please make sure to update the ticket if possible.
 
-## Meta Trac design feedback
+<!-- ## Meta Trac design feedback -->
+## メタトラックのデザインフィードバック
 
 In addition to Core Trac, we have a second Trac for issues related to the WordPress.org website and associated projects, [Meta Trac](https://meta.trac.wordpress.org/). You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started.
 
