@@ -34,13 +34,14 @@ trac には、チームとして役立つ2つのキーワード ‘ux-feedback�
 9.  ‘submit changes’ をクリックすると、チケットはフィードバックレポートに表示されなくなります。
 10.  行動、または議論が必要だと思われるチケットを見つけたなら、デザインチームの週次ミーティングにそれを持ってきてください。チャンネルにいつでも投稿することもできます。しかし、ミーティングのほうが反応が早く得られるでしょう。各ミーティングには通常、トピックを尋ねる make.blog の投稿があるので、会議を開くことができない場合は、そこにコメントを追加できます。
 
-
-Note: Please note that mentioning the a trac ticket on Slack will change its date. This means that it will move in the triage list. So if you do so, please make sure to update the ticket if possible.
+<!-- Note: Please note that mentioning the a trac ticket on Slack will change its date. This means that it will move in the triage list. So if you do so, please make sure to update the ticket if possible. -->
+注意：Slack 上に Trac のチケットを記載すると、その日付が変わることに注意してください。これはトリアージリストに移動することを意味します。なので、そうする場合は、可能であればチケットを更新するようにしてください。
 
 <!-- ## Meta Trac design feedback -->
 ## メタトラックのデザインフィードバック
 
-In addition to Core Trac, we have a second Trac for issues related to the WordPress.org website and associated projects, [Meta Trac](https://meta.trac.wordpress.org/). You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started.
+<!-- In addition to Core Trac, we have a second Trac for issues related to the WordPress.org website and associated projects, [Meta Trac](https://meta.trac.wordpress.org/). You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started. -->
+Core Tracに加えて、[Meta Trac](https://meta.trac.wordpress.org/) という WordPress.org Webサイトと関連プロジェクトに関連する問題のための2番目のTracがあります。You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started.
 
 ## Core focuses
 
