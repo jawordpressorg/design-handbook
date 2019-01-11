@@ -2,16 +2,16 @@
 # 貢献するエリア
 
 <!-- As a team we contribute by supporting design across the entire project. Listed here are just some of the ways you can contribute currently. -->
-チームとして、プロジェクト全体についてデザインでサポートすることで貢献します。ここにリストされているのは、あなたが現在貢献できる方法の一部です。
+チームとして、デザインでサポートすることでプロジェクト全体に貢献します。ここにリストされているのは、あなたが現在貢献できる方法の一部です。
 
 <!-- ## Core Trac design feedback -->
 ## コアトラックのデザインフィードバック
 
 <!-- We have two keywords in trac which we as a team can help with: ‘ux-feedback’ and ‘ui-feedback’. What is trac? Trac is where bugs are reported and enhancement requests are made for WordPress. -->
-trac には、チームとして役立つ2つのキーワード ‘ux-feedback’ と ‘ui-feedback’ があります。 trac とは何でしょう？ Trac は、WordPress に対するバグが報告されたり、拡張のリクエストが送られている処です。
+trac には、チームとして役立つ2つのキーワード ‘ux-feedback’ と ‘ui-feedback’ があります。 Trac とは何でしょう？ Trac は、WordPress に対するバグが報告されたり、拡張のリクエストが送られている処です。
 
 <!-- Ideally to do this, you will have a working [local testing environment](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/), however some tickets you will not need that for. Here is how a typical workflow would look for feedback in trac: -->
-理想的にこれをするために、[ローカルテスト環境](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/)で作業しましょう。しかしながらいくつかのチケットはそれを必要としないでしょう。ここで trac でのフィードバックのための典型的なワークフローを見てみましょう。
+理想的にこれをするために、[ローカルテスト環境](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/)で作業しましょう。しかしながらいくつかのチケットはそれを必要としないでしょう。ここで Trac でのフィードバックのための典型的なワークフローを見てみましょう。
 
 <!-- 1.  Visit the report [here](https://core.trac.wordpress.org/tickets/ux-feedback).
 2.  Ideally work oldest ticket first, you can click on the ‘modify’ column to sort.
@@ -43,14 +43,20 @@ trac には、チームとして役立つ2つのキーワード ‘ux-feedback�
 <!-- In addition to Core Trac, we have a second Trac for issues related to the WordPress.org website and associated projects, [Meta Trac](https://meta.trac.wordpress.org/). You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started. -->
 Core Tracに加えて、[Meta Trac](https://meta.trac.wordpress.org/) という WordPress.org Web サイトとそのプロジェクトに関連する問題のための2番目の Trac があります。ほとんどのメタチケットを処理するために、ローカルのテスト環境は必要ありません。始めるために [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) を訪れてください。
 
-## Core focuses
+<!-- ## Core focuses -->
+## コア
 
-Currently the two focuses that need our help are:
+<!-- Currently the two focuses that need our help are: -->
+現在、ヘルプを必要としている2つの焦点があります:
 
-*   **Customizer:** to help go along to weekly meetings: 18:00 UTC on Monday and join [#core-customizer](https://make.wordpress.org/design/tag/core-customizer/) on Slack.
+<!-- *   **Customizer:** to help go along to weekly meetings: 18:00 UTC on Monday and join [#core-customizer](https://make.wordpress.org/design/tag/core-customizer/) on Slack.
 *   **Editor:** to help go along to weekly meetings:  
-    18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
+    18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/). -->
+*   **カスタマイザ:** Slack の [#core-customizer](https://make.wordpress.org/design/tag/core-customizer/) チャンネルに参加し、週次ミーティング（日本時間の火曜3:00から）で協力してください。
+*   **エディター:** [#core-editor](https://make.wordpress.org/design/tag/core-editor/) チャンネルに参加し、週次ミーティング（日本時間の木曜1時から）で協力してください。
 
-## Calls for design
+<!-- ## Calls for design -->
+## デザインの要請
 
-We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/).
+<!-- We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/). -->
+[ここに現在デザインを必要としているリストがあります](https://make.wordpress.org/design/calls-for-design/)。
