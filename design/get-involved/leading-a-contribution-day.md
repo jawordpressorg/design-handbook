@@ -36,7 +36,7 @@
 ## プランニングとファシリテート
 
 <!-- Once you contacted the organizers and had a chat in Slack, [use the guidelines as a reference for preparing and facilitating the design table](https://make.wordpress.org/design/handbook/get-involved/leading-a-contribution-day/design-table-facilitator-guidelines/). And most importantly: have fun! -->
-オーガナイザーに連絡し、Slack でチャットを済ませたら、[ガイドラインを参考にして「デザインテーブル」を作成してファシリテートの準備をしましょう](https://make.wordpress.org/design/handbook/get-involved/leading-a-contribution-day/design-table-facilitator-guidelines/)。最後に一番大事ことを: ぜひ楽しんで！
+オーガナイザーに連絡し、Slack でチャットを済ませたら、[ガイドラインを参考にして「デザインテーブル」を作成してファシリテートの準備をしましょう](https://make.wordpress.org/design/handbook/get-involved/leading-a-contribution-day/design-table-facilitator-guidelines/)。最後に一番大事なこと: ぜひ楽しんで！
 
 
 [#design](https://make.wordpress.org/design/tag/design/)
