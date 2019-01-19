@@ -2,6 +2,17 @@
 
 As a team we contribute by supporting design across the entire project. Listed here are just some of the ways you can contribute currently.
 
+## Core focuses
+
+Currently the focus is on Gutenberg phase two, but we also are involved in several components within core:
+
+*   **Editor:** to help go along to weekly meetings:  
+    18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
+
+## Calls for design
+
+We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/) and the Team Trello board [here](https://trello.com/b/fnHScayo/design-team).
+
 ## Core Trac design feedback
 
 We have two keywords in trac which we as a team can help with: ‘ux-feedback’ and ‘ui-feedback’. What is trac? Trac is where bugs are reported and enhancement requests are made for WordPress.
@@ -24,15 +35,3 @@ Note: Please note that mentioning the a trac ticket on Slack will change its dat
 ## Meta Trac design feedback
 
 In addition to Core Trac, we have a second Trac for issues related to the WordPress.org website and associated projects, [Meta Trac](https://meta.trac.wordpress.org/). You won’t need a local testing environment to work on most Meta tickets. Visit the [“Needs Designer” report](https://meta.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-ui&keywords=~needs-ux&keywords=~ui-feedback&keywords=~ux-feedback&group=component&col=id&col=summary&col=keywords&col=status&col=owner&col=type&col=priority&col=component&order=keywords&report=9) to get started.
-
-## Core focuses
-
-Currently the two focuses that need our help are:
-
-*   **Customizer:** to help go along to weekly meetings: 18:00 UTC on Monday and join [#core-customizer](https://make.wordpress.org/design/tag/core-customizer/) on Slack.
-*   **Editor:** to help go along to weekly meetings:  
-    18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
-
-## Calls for design
-
-We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/).
