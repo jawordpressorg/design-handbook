@@ -3,9 +3,14 @@
 こちらは [WordPress Design Handbooks](https://make.wordpress.org/design/handbook/) の翻訳用リポジトリです。
 
 design ディレクトリ内にある英文を翻訳していきます。
+
 ブラウザ上で翻訳したいmdファイルをクリックし、鉛筆マークの「Edit this file」をクリックすることでブラウザ上でも更新（プルリクエスト）できます。
 
-GitHub が初めての方も [翻訳開始から提案までの流れ](https://github.com/jawordpressorg/community-handbook/wiki/%E7%BF%BB%E8%A8%B3%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E6%8F%90%E6%A1%88%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) を参考に、是非ご参加ください。
+## 翻訳の始め方
+
+1. [みんなでデザインハンドブックを翻訳の In progress ](https://github.com/miminari/design-handbook/projects/1) をチェックします。
+2. 翻訳したいページが含まれていないことを確認したら、翻訳したいページのIssueをTo Doから探して翻訳開始をコメントで宣言してください。
+3. 翻訳開始の前に原文が更新されてないか目視でざっくりで良いので確認してから作業を始めていただけると助かります。
 
 ## 翻訳方法
 
@@ -28,10 +33,15 @@ __手順：__
     # ようこそ
     ```
 3.  __`master` ブランチにプルリクエストします。__
+  * プルリクエストを送る際の説明欄に、"fixes #[Issue 番号]" (`[]` は不要) というフォーマットで作成した Issue を記述すると、プルリクエストがマージされる際に自動で Issue が閉じられるので便利です。
 
-## 翻訳用語集
+GitHub が初めての方も [翻訳開始から提案までの流れ](https://github.com/jawordpressorg/community-handbook/wiki/%E7%BF%BB%E8%A8%B3%E9%96%8B%E5%A7%8B%E3%81%8B%E3%82%89%E6%8F%90%E6%A1%88%E3%81%BE%E3%81%A7%E3%81%AE%E6%B5%81%E3%82%8C) を参考に、是非ご参加ください。
 
-翻訳に悩んだ場合はまず[翻訳用語集](https://github.com/jawordpressorg/community-handbook/blob/master/glossary.md)を参照してください。
+## 翻訳のルール
+
+翻訳を始める前に、[WordPress の翻訳/翻訳スタイルガイド - WordPress Codex 日本語版](https://wpdocs.osdn.jp/WordPress_%E3%81%AE%E7%BF%BB%E8%A8%B3/%E7%BF%BB%E8%A8%B3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89) に目をお通しください。
+
+翻訳の表記ゆれなど、その他迷った時は Issue を立てるか、 [WordPress 日本語 Slack](http://bit.ly/join-wordslack) の design チャンネルまでご相談ください。
 
 ## 原文更新方法
 
