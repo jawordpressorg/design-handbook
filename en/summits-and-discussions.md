@@ -1,2 +1,0 @@
-# Summits and discussions
-
