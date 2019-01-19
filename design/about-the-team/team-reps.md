@@ -18,8 +18,4 @@
 
 **Joshua Wold** [@joshuawold](https://profiles.wordpress.org/joshuawold)
 
- [![](https://i0.wp.com/make.wordpress.org/design/files/2017/07/703043d4e57561e179cd4336b1f79eab.jpeg?w=32&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2017/07/703043d4e57561e179cd4336b1f79eab.jpeg?ssl=1)
-
-**Michele Mizejewski**  [@mizejewski](https://profiles.wordpress.org/mizejewski)
-
 [Learn more about team reps here](https://make.wordpress.org/updates/team-reps/).
