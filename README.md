@@ -46,7 +46,7 @@ GitHub が初めての方も [翻訳開始から提案までの流れ](https://g
 ## 原文更新方法
 
 1.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)をチェックアウトします。
-2.  原文を更新します。
+2.  原文を更新します。[wp-handbook-converter](https://github.com/mirucon/wp-handbook-converter)を使うことをオススメします。
 3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
 
 _`en` ブランチには翻訳を含めないでください。_
