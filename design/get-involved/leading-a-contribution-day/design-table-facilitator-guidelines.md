@@ -11,9 +11,11 @@
 <!-- The guiding principles for this is to have them **connected to the global community** and show them in a **practical way how to contribute**. -->
 そのための指針となる原則は、**参加者をグローバルなコミュニティ** とを結びつけ、 **貢献する方法を実践的に示す** ことです。
 
-# **Plan**
+<!-- # **Plan** -->
+# **プラン**
 
-Facilitating the Design Table work during Contributor Day isn’t a difficult task but takes some experience with the community and it can be very intense on the day.  
+<!-- Facilitating the Design Table work during Contributor Day isn’t a difficult task but takes some experience with the community and it can be very intense on the day. -->
+コントリビューターデイの間にデザイン班の活動をスムーズに進めるのは難しいことではないですが、コミュニティである程度の経験が必要で、とてもハードな一日になるかもしれません。
 
 We suggest to have at least direct experience of these:
 
