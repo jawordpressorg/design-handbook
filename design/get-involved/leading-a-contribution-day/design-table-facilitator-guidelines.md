@@ -1,6 +1,8 @@
-# Design Table Facilitator Guidelines
+<!-- # Design Table Facilitator Guidelines -->
+# デザインテーブルファシリテーター（コントリビューターデイ）のガイドライン
 
-This page outlines a baseline format to run the Design Table during WordCamp Contributor Days. It’s not meant to be followed strictly, but it’s a useful guideline especially for people that are running the table for the first time.  
+<!-- This page outlines a baseline format to run the Design Table during WordCamp Contributor Days. It’s not meant to be followed strictly, but it’s a useful guideline especially for people that are running the table for the first time. -->
+このページは、 WordCamp のコントリビューターデイでデザインテーブルを開催するときの基本的なフォーマットについての説明です。 このガイドラインに厳密に従う必要はありませんが、初めてテーブルをファシリテートする人にとっては役立つでしょう。
 
 The idea is to have clear instructions that anyone with some degree of knowledge of the WordPress design work can follow. Also, having these as a written guideline allows for improvements over time and future tweaks for different contexts.  
 
