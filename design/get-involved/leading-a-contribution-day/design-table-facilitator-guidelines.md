@@ -1,12 +1,15 @@
 <!-- # Design Table Facilitator Guidelines -->
-# デザインテーブルファシリテーター（コントリビューターデイ）のガイドライン
+# デザイン班のファシリテーターガイドライン
 
 <!-- This page outlines a baseline format to run the Design Table during WordCamp Contributor Days. It’s not meant to be followed strictly, but it’s a useful guideline especially for people that are running the table for the first time. -->
-このページは、 WordCamp のコントリビューターデイでデザインテーブルを開催するときの基本的なフォーマットについての説明です。 このガイドラインに厳密に従う必要はありませんが、初めてテーブルをファシリテートする人にとっては役立つでしょう。
+このページは、 WordCamp のコントリビューターデイで、デザイン班が活動するための基本的なフォーマットについての説明です。 このガイドラインに厳密に従う必要はありませんが、初めてデザイン班をファシリテートする人にとっては役立つでしょう。
 
-The idea is to have clear instructions that anyone with some degree of knowledge of the WordPress design work can follow. Also, having these as a written guideline allows for improvements over time and future tweaks for different contexts.  
 
-The guiding principles for this is to have them **connected to the global community** and show them in a **practical way how to contribute**.  
+<!-- The idea is to have clear instructions that anyone with some degree of knowledge of the WordPress design work can follow. Also, having these as a written guideline allows for improvements over time and future tweaks for different contexts. -->
+その考え方は、 WordPress のデザイン部分についてある程度の知識があれば誰でも作業できる明確な指示、ということです。また、これらを文書化したガイドラインがあれば、徐々に改善していったり、さまざまな状況に応じて、将来的に微調整していくことができます。
+
+<!-- The guiding principles for this is to have them **connected to the global community** and show them in a **practical way how to contribute**. -->
+そのための指針となる原則は、**参加者をグローバルなコミュニティ** とを結びつけ、 **貢献する方法を実践的に示す** ことです。
 
 # **Plan**
 
