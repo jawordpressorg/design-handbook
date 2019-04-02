@@ -27,14 +27,20 @@
 * コントリビューターデイで使用するツール（Slack、Trac、GitHub、Trelloなど）に慣れましょう。
 * 少なくとも2〜3枚のチケット（Trac、オプションでGitHubなど）をコントリビュートしておきましょう。
 
-### **Before Contributor Day**
+<!-- ### **Before Contributor Day** -->
+### **コントリビューターデイの前に**
 
-Overall the preparation work shouldn’t take more than a few hours among the various things, and gets easier the more you do it.  
+<!-- Overall the preparation work shouldn’t take more than a few hours among the various things, and gets easier the more you do it. -->
+事前準備全体はあまり時間をかけるべきではなく、また簡単であるほど準備がしやすくなります。  
 
-1.  **Review task sources** — during the contributor day we want to propose to the table a series of activities that can be taken up by individuals and groups. This means that the Facilitator should have reviewed the list of possible tasks and should already have an idea on at least some of them, so they don’t have to catch up on the day.  The list can get long, so don’t try to know review everything, but cover enough items to be able to provide an example to the group.
-    1.  **Trac** — review the [needs ‘ui-feedback’ and ‘ux-feedback’ tags](https://core.trac.wordpress.org/report/35?sort=modified&asc=1&page=1) and make sure there are good tickets for the discussion. Try to have 2-3 simple ones ready you know in detail to use as examples for contribution.
+<!-- 1.  **Review task sources** — during the contributor day we want to propose to the table a series of activities that can be taken up by individuals and groups. This means that the Facilitator should have reviewed the list of possible tasks and should already have an idea on at least some of them, so they don’t have to catch up on the day.  The list can get long, so don’t try to know review everything, but cover enough items to be able to provide an example to the group. -->
+1. **タスクのソースをレビューしておく**  - コントリビューターデイにおいて、個人やグループで行うことができる一連のアクティビティをその場に提案したいと思います。 つまり、ファシリテーターは、すでにタスクのリストをレビューし、少なくともいくつかについてアイデアを持っている状態なので、当日にキャッチアップする必要はありません。 リストは長くなる可能性があるので、すべてをレビューするのではなく、グループに例を提供するのに十分な項目だけをカバーするようにしてください。
+    <!-- 1.  **Trac** — review the [needs ‘ui-feedback’ and ‘ux-feedback’ tags](https://core.trac.wordpress.org/report/35?sort=modified&asc=1&page=1) and make sure there are good tickets for the discussion. Try to have 2-3 simple ones ready you know in detail to use as examples for contribution.
     2.  **GitHub** — if there are projects that are currently being worked on in WordPress but are currently tracked on GitHub (i.e. [Gutenberg’s ‘Needs Design Feedback’](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22)), review these issues too.
-    3.  **Trello** — review existing tasks on the [design board](https://trello.com/b/fnHScayo/design-team) to find items that can be picked up and either completed or at least iterated upon during the day.
+    3.  **Trello** — review existing tasks on the [design board](https://trello.com/b/fnHScayo/design-team) to find items that can be picked up and either completed or at least iterated upon during the day. -->
+    1. ** Trac **  -  [‘ui-feedback’ および ‘ux-feedback’ タグ](https://core.trac.wordpress.org/report/35?sort=modified&asc=1&page=1) をチェックして、議論にふさわしいチケットがあることを確認してください。 コントリビュートの例として使えるよう、あなたがよく知っている簡単なものを2〜3つほど用意するようにしましょう。
+    2. ** GitHub **  - 現在WordPressで進行中で、現在GitHubでトラックされているプロジェクトがある場合（例：[Gutenbergの 'Needs Design Feedback'](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22)、これらの issue も確認しましょう。
+    3. ** Trello **  -  [design board](https://trello.com/b/fnHScayo/design-team) で既存のタスクを確認、ピックアップして、コントリビューターデイのあいだに完了または少なくとも繰り返し実行できるアイテムを見つけましょう。
 2.  **Logistics** — ask the details about the space during contributor day.
     1.  Ask how many designers are expected to join.
     2.  It’s ideal if there’s a wall for post-its or a whiteboard. If that’s available, get post-its and markers with a medium-sized tip (like Sharpies).
