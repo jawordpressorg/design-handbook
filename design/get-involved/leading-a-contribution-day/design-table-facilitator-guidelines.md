@@ -17,11 +17,15 @@
 <!-- Facilitating the Design Table work during Contributor Day isn’t a difficult task but takes some experience with the community and it can be very intense on the day. -->
 コントリビューターデイの間にデザイン班の活動をスムーズに進めるのは難しいことではないですが、コミュニティである程度の経験が必要で、とてもハードな一日になるかもしれません。
 
-We suggest to have at least direct experience of these:
+<!-- We suggest to have at least direct experience of these: -->
+少なくとも、次のような「直接的に役立つ経験」を積むことをお勧めします。
 
-*   Have participated at least once in a Design Triage chat in [design](https://wordpress.slack.com/messages/design/) Slack.
+<!-- *   Have participated at least once in a Design Triage chat in [design](https://wordpress.slack.com/messages/design/) Slack.
 *   Have practice of the tools used during the day (Slack, Trac, GitHub, Trello, …).
-*   Have contributed to at least a couple of tickets (Trac, optionally GitHub and others).
+*   Have contributed to at least a couple of tickets (Trac, optionally GitHub and others). -->
+* [design](https://wordpress.slack.com/messages/design/) SlackにあるDesign Triageチャットに少なくとも1回は参加しておきましょう。
+* コントリビューターデイで使用するツール（Slack、Trac、GitHub、Trelloなど）に慣れましょう。
+* 少なくとも2〜3枚のチケット（Trac、オプションでGitHubなど）をコントリビュートしておきましょう。
 
 ### **Before Contributor Day**
 
