@@ -41,14 +41,19 @@
     1.  **Trac** - [‘ui-feedback’ および ‘ux-feedback’ タグ](https://core.trac.wordpress.org/report/35?sort=modified&asc=1&page=1) をチェックして、議論にふさわしいチケットがあることを確認してください。 コントリビュートの例として使えるよう、あなたがよく知っている簡単なものを2〜3つほど用意するようにしましょう。
     2.  **GitHub** - 現在 WordPress で進行中で、現在 GitHub でトラックされているプロジェクトがある場合（例： [Gutenberg の 'Needs Design Feedback'](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22) 、これらの issue も確認しましょう。
     3.  **Trello** - [design board](https://trello.com/b/fnHScayo/design-team) で既存のタスクを確認、ピックアップして、コントリビューターデイのあいだに完了または少なくとも繰り返し実行できるアイテムを見つけましょう。
-2.  **Logistics** — ask the details about the space during contributor day.
+<!-- 2.  **Logistics** — ask the details about the space during contributor day.
     1.  Ask how many designers are expected to join.
     2.  It’s ideal if there’s a wall for post-its or a whiteboard. If that’s available, get post-its and markers with a medium-sized tip (like Sharpies).
     3.  Review start and end time of the Contributor Day, and specifically start and end work of the tables (as there’s an intro and a closing remarks which will can take about 30 minutes each).
     4.  See if the space allows for having a separate room and/or a projector. This can be very useful to guide people through.
 3.  **Rehearse** — read the Day Outline below, and try out, maybe even speaking aloud, what you’re going to say. Have a read of the [design about page](https://make.wordpress.org/design/handbook/about-the-team/) for extra reference.
 4.  **Rest** — be sure to have good rest the day before, and prepare supplies to have with you during the day (i.e. water, snacks, etc).
-5.  **Don’t go alone** — consider having someone to support you facilitating, this becomes more important as you get a large amount of contributor.
+5.  **Don’t go alone** — consider having someone to support you facilitating, this becomes more important as you get a large amount of contributor. -->
+2.  **当日の運営について** — コントリビューターデイの開催場所について確認しておくこと。
+    1.  参加するデザイナーの想定人数。
+    2.  付箋が貼りだせる壁かホワイトボードがあると理想的です。 もし利用できる場合は付箋と中細のマーカー（ Sharpies など）を準備します。
+    3.  コントリビューターデイの開始時間と終了時間、具体的にはデザイン班の開始時間と終了時間を確認します（開会と閉会の挨拶もあり、それぞれ約30分かかります）。
+    4.  開催場所に別室またはプロジェクター（あるいはその両方）があるかどうかを確認します。 これは、参加者を案内するのに非常に役立ちます。
 
 ### **Day Outline**
 
