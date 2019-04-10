@@ -39,7 +39,7 @@
     2.  **GitHub** — if there are projects that are currently being worked on in WordPress but are currently tracked on GitHub (i.e. [Gutenberg’s ‘Needs Design Feedback’](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22)), review these issues too.
     3.  **Trello** — review existing tasks on the [design board](https://trello.com/b/fnHScayo/design-team) to find items that can be picked up and either completed or at least iterated upon during the day. -->
     1.  **Trac** - [‘ui-feedback’ および ‘ux-feedback’ タグ](https://core.trac.wordpress.org/report/35?sort=modified&asc=1&page=1) をチェックして、議論にふさわしいチケットがあることを確認してください。 コントリビュートの例として使えるよう、あなたがよく知っている簡単なものを2〜3つほど用意するようにしましょう。
-    2.  **GitHub** - 現在WordPressで進行中で、現在GitHubでトラックされているプロジェクトがある場合（例：[Gutenbergの 'Needs Design Feedback'](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22)、これらの issue も確認しましょう。
+    2.  **GitHub** - 現在 WordPress で進行中で、現在 GitHub でトラックされているプロジェクトがある場合（例： [Gutenberg の 'Needs Design Feedback'](https://github.com/WordPress/gutenberg/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Design+Feedback%22) 、これらの issue も確認しましょう。
     3.  **Trello** - [design board](https://trello.com/b/fnHScayo/design-team) で既存のタスクを確認、ピックアップして、コントリビューターデイのあいだに完了または少なくとも繰り返し実行できるアイテムを見つけましょう。
 2.  **Logistics** — ask the details about the space during contributor day.
     1.  Ask how many designers are expected to join.
