@@ -58,11 +58,14 @@
 <!-- 5.  **Don’t go alone** — consider having someone to support you facilitating, this becomes more important as you get a large amount of contributor. -->
 5.  **なんでも一人でやろうとしない** — ファシリテートを手伝ってくれる人を探しておくとよいでしょう。きっと大勢のコントリビューターを募りたいときに助けになります。
 
-### **Day Outline**
+<!-- ### **Day Outline** -->
+### **当日の概要**
 
-Be ready for an intense day that will also flow really fast. Each of the tasks here can take a lot of time, so make sure to not spend too much time on setup and logistics and try to get people on actual work quickly. For large group this might need more than one facilitator, or cut down in setup time. Remember: the idea is to have people contribute in the long run, and do something they can feel good about on the day.  
+<!-- Be ready for an intense day that will also flow really fast. Each of the tasks here can take a lot of time, so make sure to not spend too much time on setup and logistics and try to get people on actual work quickly. For large group this might need more than one facilitator, or cut down in setup time. Remember: the idea is to have people contribute in the long run, and do something they can feel good about on the day. -->
+ハードな一日を過ごす準備をしましょう。 この日の作業はそれぞれ時間がかかる可能性があるので、セットアップと運営にあまり時間をかけないようにし、実際の作業にすぐに取りかかれるようにしましょう。 大きなグループの場合、2人以上のファシリテーターを準備するか、セットアップ時間を短縮しましょう。 忘れずに：参加者に長期的にコントリビュートしてもらうこと、そして彼らが当日楽しい活動ができることをすること。  
 
-Also, be ready for internet to be down. It often happens with so many people joining. In the preparation above it may be helpful to save full screenshots of 2-3 issues for discussion if internet goes down. .  
+<!-- Also, be ready for internet to be down. It often happens with so many people joining. In the preparation above it may be helpful to save full screenshots of 2-3 issues for discussion if internet goes down. .   -->
+また、インターネットがダウンしたときの対策を準備しておきましょう。 非常に多くの人が参加するので、よく起こります。 上記の準備では、インターネットがダウンした場合、ディスカッションのために2〜3の課題のフルスクリーンショットを保存しておくと助けになります。 。
 
 1.  Contributor Day Intro
     1.  Before the work at the table starts, the design table Facilitator usually prepares a short introduction to be given on stage, explaining who they are and what they are going to do on the day, and inviting people to join the design table.
