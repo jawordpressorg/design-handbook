@@ -67,7 +67,7 @@
 <!-- Also, be ready for internet to be down. It often happens with so many people joining. In the preparation above it may be helpful to save full screenshots of 2-3 issues for discussion if internet goes down. .   -->
 また、インターネットがダウンしたときの対策を準備しておきましょう。 非常に多くの人が参加するので、よく起こります。 上記の準備では、インターネットがダウンした場合、ディスカッションのために2〜3の課題のフルスクリーンショットを保存しておくと助けになります。 。
 
-<-- 1.  Contributor Day Intro
+<!-- 1.  Contributor Day Intro
     1.  Before the work at the table starts, the design table Facilitator usually prepares a short introduction to be given on stage, explaining who they are and what they are going to do on the day, and inviting people to join the design table.
     2.  The Facilitator also invites other tables to come to the design table if they need design help.
 2.  Design Table Intro
