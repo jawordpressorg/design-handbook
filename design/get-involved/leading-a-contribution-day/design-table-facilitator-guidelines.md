@@ -62,12 +62,12 @@
 ### **当日の概要**
 
 <!-- Be ready for an intense day that will also flow really fast. Each of the tasks here can take a lot of time, so make sure to not spend too much time on setup and logistics and try to get people on actual work quickly. For large group this might need more than one facilitator, or cut down in setup time. Remember: the idea is to have people contribute in the long run, and do something they can feel good about on the day. -->
-ハードな一日を過ごす準備をしましょう。 この日の作業はそれぞれ時間がかかる可能性があるので、セットアップと運営にあまり時間をかけないようにし、実際の作業にすぐに取りかかれるようにしましょう。 大きなグループの場合、2人以上のファシリテーターを準備するか、セットアップ時間を短縮しましょう。 忘れずに：参加者に長期的にコントリビュートしてもらうこと、そして彼らが当日楽しい活動ができることをすること。  
+ハードな一日のための準備をしましょう。 この日の作業はそれぞれ時間がかかる可能性があるので、セットアップと運営にあまり時間をかけないようにし、実際の作業にすぐに取りかかれるようにしましょう。 大きなグループの場合、2人以上のファシリテーターを準備するか、セットアップ時間を短縮しましょう。 忘れずに：参加者に長期的にコントリビュートしてもらうこと、そして彼らが当日楽しい活動ができることをすること。  
 
 <!-- Also, be ready for internet to be down. It often happens with so many people joining. In the preparation above it may be helpful to save full screenshots of 2-3 issues for discussion if internet goes down. .   -->
 また、インターネットがダウンしたときの対策を準備しておきましょう。 非常に多くの人が参加するので、よく起こります。 上記の準備では、インターネットがダウンした場合、ディスカッションのために2〜3の課題のフルスクリーンショットを保存しておくと助けになります。 。
 
-1.  Contributor Day Intro
+<-- 1.  Contributor Day Intro
     1.  Before the work at the table starts, the design table Facilitator usually prepares a short introduction to be given on stage, explaining who they are and what they are going to do on the day, and inviting people to join the design table.
     2.  The Facilitator also invites other tables to come to the design table if they need design help.
 2.  Design Table Intro
@@ -93,7 +93,38 @@
         *   If they don’t want to have a local install and internet works, you can suggest to use [http://poopy.life/](http://poopy.life/).
     6.  While people create accounts
         *   Email — go around and ask for their email to know if they are willing to receive a survey after the Contributor Day. Make sure this email is used only once, and only for the survey (for privacy reasons).
-        *   Prepare Tasks — if there’s a whiteboard or a wall available put post-its on it in a row, one post-it for each work category (i.e. Testing, Triage, Trello, etc). Leave space below so people can move their “portrait” post-it under the specific column to signal they will work on it.
+        *   Prepare Tasks — if there’s a whiteboard or a wall available put post-its on it in a row, one post-it for each work category (i.e. Testing, Triage, Trello, etc). Leave space below so people can move their “portrait” post-it under the specific column to signal they will work on it. -->
+
+1.  コントリビューターデイの始めに
+    1.  作業が始まる前に、デザイン班のファシリテーターは通常、簡単な紹介文で、デザイン班はその日に何をするのかを全体に説明します。
+    2.  また、ファシリテーターはデザインの助けが必要な班があったら、その参加者をデザインテーブルに招待します。
+
+2.  デザイン班の始めに
+    1.  参加に感謝しましょう。
+    2.  デザインが WordPress にどのように貢献するかを説明します。
+    3.  グループが今日やろうとしている作業の概要（おおまかなアジェンダ、タスクなど）を説明します。
+
+3. アイスブレーカー/自己紹介
+    1.  **名前** 、**出身地**、**役職** などを全員で簡単に自己紹介をします。
+      * 壁があり、付箋があれば：各人で顔のイラスト（
+      例として最初にそれをする）と、その下に名前と役職を書き、お互いに挨拶をしましょう。
+    2.  時間があればクイックアイスブレーカーゲームでアイスブレイクをしましょう（[例](http://gamestorming.com/category/icebreakers/)）。
+
+4. セットアップ
+    1.  WordPress での共同作業において、コミュニケーションツール（Slack、Trello）がどのように使用されているのかを説明し、それらをセットアップするのを助けます。設定が完了したら、[デザイン](https://wordpress.slack.com/messages/design/)Slackチャンネルで挨拶するよう、全員に伝えます。
+    2.  コントリビューターデイの後も、参加者がコミュニティと連絡を取ることができる Slack は特に重要です。セットアップにはかなりの時間がかかることがあるので、他のセットアップを諦めてもいいでしょう。
+    3.  Slack
+        *   招待：[https://make.wordpress.org/chat/](https://make.wordpress.org/chat/)
+    4.  Trello
+        *   招待：[https://trello.com/invite/b/fnHScayo/ed40e89e3bd2e876975fbbc1175e3084/design-team](https://trello.com/invite/b/fnHScayo/ed40e89e3bd2e876975fbbc1175e3084/design-team)
+    5.  ステージング設定
+        *   タスクによっては、 WordPress のローカルテストインストールをしておくと便利です。これには長い時間がかかり、利用可能なインターネット接続が必要になるので、時間がかかる可能性があるため、注意が必要です（インターネットなしでは不可能な場合もあります）。
+        *   最も簡単な方法は [MAMP](https://www.mamp.info/en/downloads/) を使うことです。
+        *   彼らがローカルインストールやインターネット作品を持ちたくない場合は、 [http://poopy.life/](http://poopy.life/) をお勧めします。
+    6.  参加者がアカウントを作っているあいだ
+        *   Eメール - 席を回り、コントリビューターデイの後にアンケート回答してくれる方にメールアドレスを集めます。このEメールは、一度だけ、そして調査のためにのみ使用されることを伝えましょう（プライバシーの理由から）。
+        *   タスクを準備する - ホワイトボードや壁がある場合は、作業カテゴリごとに1つずつ、付箋を貼り付けましょう（例：テスト、トリアージ、 Trello など）。参加者は「自分のイラスト」付箋を任意の作業カテゴリ付箋の下に貼り付け、作業を進めることを知らせます。
+
 5.  Triage Simulation
     1.  Once everyone is in Slack, do a design triage simulation (i.e. one or two tickets you’ve prepared before, not all of them).
     2.  If possible and time zones are available, have someone remote join the discussion. You might have to arrange this beforehand.
