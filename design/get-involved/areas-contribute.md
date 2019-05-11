@@ -65,7 +65,9 @@ Note: Please note that mentioning the a trac ticket on Slack will change its dat
 -->
 注意：Slack 上に Trac のチケットを記載すると、その日付が変わることに注意してください。これはトリアージリストに移動することを意味します。なので、そうする場合は、可能であればチケットを更新するようにしてください。
 
-<!-- ## Meta Trac design feedback -->
+<!-- 
+## Meta Trac design feedback
+-->
 ## メタトラックのデザインフィードバック
 
 <!-- 
