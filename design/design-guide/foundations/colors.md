@@ -1,16 +1,18 @@
 <!-- # Colors -->
 # カラー
 
-<!-- Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/)) -->
-色はブランド認知の為の重要な側面の1つです。正しい色相 (色) を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
+<!-- Colors are one of the key aspects when it comes to brand recognition. Making sure we use the right hues (colors) is essential to that effect. Check out the following list to find the official WordPress colors. (Also available on [this codepen](https://codepen.io/hugobaeta/full/RNOzoV/)) -->	
+ 色はブランド認知の為の重要な側面の1つです。正しい色相 (色) を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
+
+Are you also looking for the [official logos](https://make.wordpress.org/design/handbook/design-guide/foundations/identity/)?
 
 <!-- ## Colors -->
 ## カラー
 
-<!-- Colors are separated into three groups. The Blues, the Grays, and Auxiliary colors. The most recognizable colors are, obviously, the Blues and Grays. The Auxiliary hues can be used for various reasons, and come in a variety of values, with some tints (added white), tones (mix with another hue), and shades (added black) -->
-カラーはブルー、グレー、補助色相の3つのグループに分かれています。最もよく知られているカラーは、ブルーとグレーです。補助色相はさまざまな理由で使用でき、いくつかの色合い (白を加えたもの) 、色調 (別の色相との混合) 、陰影 (黒を加えたもの) があります。
-
-<!-- class 情報保持のため html タグを残します -->
+<!-- Colors are separated into three groups. The Blues, the Grays, and Auxiliary colors. The most recognizable colors are, obviously, the Blues and Grays. The Auxiliary hues can be used for various reasons, and come in a variety of values, with some tints (added white), tones (mix with another hue), and shades (added black) -->	
+ カラーはブルー、グレー、補助色相の3つのグループに分かれています。最もよく知られているカラーは、ブルーとグレーです。補助色相はさまざまな理由で使用でき、いくつかの色合い (白を加えたもの) 、色調 (別の色相との混合) 、陰影 (黒を加えたもの) があります。
+ 
+ <!-- class 情報保持のため html タグを残します -->
 <div class="colors-wrapper">
 <section class="colors-blue color-group">
   
@@ -131,6 +133,7 @@
 *   [Adobe Illustrator (.ai)](https://cldup.com/DG7vCr8ERF.ai) ([@antpb](https://profiles.wordpress.org/antpb/) さん、ありがとうございます。)
 *   カラー要素を含むSketchファイル (貢献をお待ちしています。Slackで [@hugobaeta](https://profiles.wordpress.org/hugobaeta/) さんにご連絡ください。)
 
+
 <!-- ## Resources -->
 ## リソース
 
@@ -140,5 +143,3 @@
 *   [カラーとコントラストの使用に関するアクセシビリティハンドブック](https://make.wordpress.org/accessibility/handbook/current-projects/use-of-color/)
 *   [カラーコントラスト比率チェッカー](http://webaim.org/resources/contrastchecker/)
 *   [アクセシビリティとカラーテストに関するその他のリソース](http://webaim.org/resources/contrastchecker/)
-
-<div class="rgb value-code">rgb(130,110,180)</div>

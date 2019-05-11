@@ -1,5 +1,5 @@
 <!-- # WordPress style guide -->
-# WordPress スタイルガイド
+# WordPress スタイルガイド	
 
-<!-- This section documents design across the project. -->
-このセクションでは、プロジェクト全体のデザインについて説明します。
+ <!-- This section documents design across the project. -->
+このセクションでは、プロジェクト全体のデザインについて説明します。	
