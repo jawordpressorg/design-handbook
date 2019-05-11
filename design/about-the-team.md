@@ -1,5 +1,5 @@
 <!-- # About the team -->
-# デザインチームについて	
+# デザインチームについて
 
 
  <!-- ## What is the Design Team? -->
@@ -22,7 +22,7 @@ The design group is focused on designing the user interface and experience of Wo
 <!-- We communicate during meetings and asynchronously in the Slack [design channel](http://wordpress.slack.com/messages/design/). This is the best way to contact the team. -->
 チームでは、ミーティングをはじめ、Slack の [design channel](http://wordpress.slack.com/messages/design/) で、コミュニケーションをとっています。チームとコンタクトを取りたい場合は、Slack の [design channel](http://wordpress.slack.com/messages/design/) の利用をお勧めします。
 
-<!-- You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team. -->	You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team.
+<!-- You can also view our [Trello Board](https://trello.com/c/RrAyxp7T) to get an overview of the major topics for the Design Team. -->
 また、[Trello Board](https://trello.com/c/RrAyxp7T) で、チームの主要トピックの概要を確認することもできます。
 
 ## Our week
