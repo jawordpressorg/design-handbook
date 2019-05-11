@@ -11,16 +11,29 @@ As a team we contribute by supporting design across the entire project. Listed h
 <!--
 ## Core focuses
 -->
-## コア
+## コアへのフォーカス
 
+<!-- 
 Currently the focus is on Gutenberg phase two, but we also are involved in several components within core:
+-->
+現在は Gutenberg のフェーズ2にフォーカスが当てられていますが、コア内のいくつかのコンポーネントにも関わっています:
 
+<!--
 *   **Editor:** to help go along to weekly meetings:  
     18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
+-->
+*   **Editor:** 毎週のミーティングへの参加を支援するために:  
+    水曜 18:00 CEST に [#core-editor](https://make.wordpress.org/design/tag/core-editor/) へ参加しましょう。
 
+<!-- 
 ## Calls for design
+-->
+## デザインの要請
 
+<!-- 
 We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/) and the Team Trello board [here](https://trello.com/b/fnHScayo/design-team).
+-->
+現在のデザインの [要請はここに](https://make.wordpress.org/design/calls-for-design/) 、チームの Trello ボードは[ここ](https://trello.com/b/fnHScayo/design-team)です。
 
 <!-- 
 ## Core Trac design feedback
