@@ -1,6 +1,8 @@
-# Iconography
+<!-- # Iconography -->
+# アイコノグラフィー
 
-Note: The contents in this page were taken from the [work in progress Dashicons styleguide page](https://make.wordpress.org/design/dashicons-style-guide/). This is also, by inheritance, a work in progress
+<!-- Note: The contents in this page were taken from the [work in progress Dashicons styleguide page](https://make.wordpress.org/design/dashicons-style-guide/). This is also, by inheritance, a work in progress -->
+注意: このページの内容は、 [作業中の Dashicons スタイルガイド・ページ](https://make.wordpress.org/design/dashicons-style-guide/) から引用されています。このページも、継承的に、作業中の内容となります。
 
 Dashicons are the icons used throughout the WordPress admin. There are several reasons why you might want to design Dashicons. Maybe you’re an icon designer, and want to contribute to WordPress. Or you want to design a custom icon for a plugin. If you want do make Dashicons, following these guidelines will help ensure that they look and function great.
 

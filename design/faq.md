@@ -1,4 +1,5 @@
-# FAQ
+<!-- # FAQ -->
+# よくある質問
 
 ## What does WordPress design encompass?
 

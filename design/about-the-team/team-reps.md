@@ -6,6 +6,10 @@
 
 **Tammie Lister** [@karmatosed](https://profiles.wordpress.org/karmatosed)
 
+![](https://gravatar.com/avatar/ed4f856405e64c1492839d2bf4913baa?d=mystery)
+
+**Mel Choyce **[@melchoyce](https://profiles.wordpress.org/melchoyce)
+
  [![](https://i0.wp.com/make.wordpress.org/design/files/2017/07/cc00a4eb9366fcf378d991cbb3714ecc.jpeg?w=32&ssl=1)](https://i0.wp.com/make.wordpress.org/design/files/2017/07/cc00a4eb9366fcf378d991cbb3714ecc.jpeg?ssl=1)
 
 **Monique Dubbelman** [@boemedia](https://profiles.wordpress.org/boemedia/)
