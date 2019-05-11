@@ -15,6 +15,7 @@ There are 3 reports that need triaging during weekly design. Ideally pick one an
 ### Preparation
 
 *   Choose one of the reports.
+*   If there is a release currently in progress and about to head into beta or ‘release candidate’, make sure to highlight those tickets first in triage.
 *   If you are using a report with ‘modified’ as a field, click it to start with oldest tickets.
 
 ### Running triage
