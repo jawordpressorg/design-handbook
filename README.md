@@ -54,3 +54,10 @@ GitHub が初めての方も [翻訳開始から提案までの流れ](https://g
 3.  [`en` ブランチ](https://github.com/jawordpressorg/community-handbook/tree/en)にプルリクエストします。
 
 _`en` ブランチには翻訳を含めないでください。_
+
+4. `en` へのプルリクの差分をチェックし、 `master` にプルリクをおくります。
+   注: [colors](https://github.com/miminari/design-handbook/blob/master/design/design-guide/foundations/colors.md) の一部にclass情報保持のためhtmlタグを残してありますので上書きしないように注意してください。
+5. 問題なければ、 `en` `master` ともマージし、更新完了です。
+   
+   
+   
