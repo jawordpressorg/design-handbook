@@ -6,7 +6,7 @@
 <!-- 
 As a team we contribute by supporting design across the entire project. Listed here are just some of the ways you can contribute currently.
 -->
-チームとして、デザインのサポートをすることでプロジェクト全体に貢献します。ここにリストされているのは、あなたが現在貢献できる方法の一部です。
+デザインチームとして、デザインのサポートをすることでプロジェクト全体に貢献します。ここにリストされているのは、あなたが現在貢献できる方法の一部です。
 
 <!--
 ## Core focuses
@@ -22,7 +22,7 @@ Currently the focus is on Gutenberg phase two, but we also are involved in sever
 *   **Editor:** to help go along to weekly meetings:  
     18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
 -->
-*   **エディター** の毎週のミーティングへの参加を支援するために:  
+*   **エディター** の毎週のミーティングへの参加を促すために:  
     水曜 18:00 CEST （訳注: 日本時間の木曜午前2:00） に [#core-editor](https://make.wordpress.org/design/tag/core-editor/) へ参加しましょう。
 
 <!-- 
@@ -71,7 +71,7 @@ Ideally to do this, you will have a working [local testing environment](https://
 7.  フィードバックがあったことを示すには、キーワードの横にある ‘manual’ という単語をクリックします:[![](https://i0.wp.com/make.wordpress.org/design/files/2017/04/2017-04-30-at-12.28.png?resize=776%2C530&ssl=1)](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/2017-04-30-at-12-28/#main)
 8.  ‘modify’ をクリックすると、フィードバックタグに ‘has’ という単語を追加できます:[![](https://i2.wp.com/make.wordpress.org/design/files/2017/04/2017-04-30-at-12.29.png?resize=467%2C188&ssl=1)](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/2017-04-30-at-12-29/#main)
 9.  ‘submit changes’ をクリックすると、チケットはフィードバックレポートに表示されなくなります。
-10.  行動、または議論が必要だと思われるチケットを見つけたなら、デザインチームの週次ミーティングに提案してください。チャンネルにはいつでも投稿することもできます。しかし、ミーティングのほうが反応が早く得られるでしょう。各ミーティングには通常、トピックをまとめた make.blog の投稿があるので、会議に参加できない場合は、そこにコメントを追加できます。
+10.  行動または議論が必要だと思われるチケットを見つけたなら、デザインチームの週次ミーティングに提案してください。チャンネルにはいつでも投稿することもできます。しかし、ミーティングのほうが反応が早く得られるでしょう。各ミーティングには通常、トピックをまとめた make.blog の投稿があるので、会議に参加できない場合は、そこにコメントを追加できます。
 
 <!-- 
 Note: Please note that mentioning the a trac ticket on Slack will change its date. This means that it will move in the triage list. So if you do so, please make sure to update the ticket if possible.
