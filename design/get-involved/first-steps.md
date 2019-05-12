@@ -24,7 +24,17 @@ As a team we work on a lot of different things; from core to Dashicons and beyon
 3. [make.wordpress.org/design](https://make.wordpress.org/design) ブログを購読します。このブログを購読することでチームとその最新情報を手に入れることができます。
 4. [ここで貢献する方法を見つけることができます](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/)。
 
-**Invision access**  
-Everyone gets access to Invision to help contribute. You can request access [here](https://docs.google.com/forms/d/e/1FAIpQLSe09nZ1BcQYkrL5dJ0fiOm5AOlaGvmKRV6Ko0e8ZFPhdjZmBw/viewform).
+<!--
+**Invision access**
+-->
+**InVision へのアクセス**
 
+<!-- 
+Everyone gets access to Invision to help contribute. You can request access [here](https://docs.google.com/forms/d/e/1FAIpQLSe09nZ1BcQYkrL5dJ0fiOm5AOlaGvmKRV6Ko0e8ZFPhdjZmBw/viewform).
+-->
+貢献するために、誰でも InVision へアクセスすることができます。 [アクセスのリクエストはここからできます。](https://docs.google.com/forms/d/e/1FAIpQLSe09nZ1BcQYkrL5dJ0fiOm5AOlaGvmKRV6Ko0e8ZFPhdjZmBw/viewform).
+
+<!-- 
 We try to review this form as often as possible, but f it takes to long, please ping one of the design team reps in [#design](https://make.wordpress.org/design/tag/design/) in chat.wordpress.org Slack for quicker access.
+-->
+このフォームをできるだけ頻繁に見直すようにしていますが、時間がかかる場合は、chat.wordpress.org Slack の [＃design]（https://make.wordpress.org/design/tag/design/） でデザインチームの担当者に連絡してください。
