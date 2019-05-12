@@ -22,7 +22,7 @@ Currently the focus is on Gutenberg phase two, but we also are involved in sever
 *   **Editor:** to help go along to weekly meetings:  
     18:00 CEST on Wednesday and join [#core-editor](https://make.wordpress.org/design/tag/core-editor/).
 -->
-*   **エディター:** の毎週のミーティングへの参加を支援するために:  
+*   **エディター** の毎週のミーティングへの参加を支援するために:  
     水曜 18:00 CEST （訳注: 日本時間の木曜午前2:00） に [#core-editor](https://make.wordpress.org/design/tag/core-editor/) へ参加しましょう。
 
 <!-- 
@@ -33,11 +33,11 @@ Currently the focus is on Gutenberg phase two, but we also are involved in sever
 <!-- 
 We have a list of current designs [needed here](https://make.wordpress.org/design/calls-for-design/) and the Team Trello board [here](https://trello.com/b/fnHScayo/design-team).
 -->
-現在のデザインの [要請はここに](https://make.wordpress.org/design/calls-for-design/) 、チームの Trello ボードは[ここ](https://trello.com/b/fnHScayo/design-team)です。
+現在の [デザインの要請はここに](https://make.wordpress.org/design/calls-for-design/) 、チームの [Trello ボードはここにあります](https://trello.com/b/fnHScayo/design-team)。
 
 <!-- 
 ## Core Trac design feedback
--->ｓ
+-->
 ## コアトラックのデザインフィードバック
 
 <!-- 
@@ -48,7 +48,7 @@ Trac には、チームとして役立つ2つのキーワード ‘ux-feedback�
 <!-- 
 Ideally to do this, you will have a working [local testing environment](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/), however some tickets you will not need that for. Here is how a typical workflow would look for feedback in trac:
 -->
-理想を言うならテストは[ローカルテスト環境](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/)で作業しましょう。しかしながらいくつかのチケットはそれを必要としないでしょう。ここで Trac でのフィードバックのための典型的なワークフローを見てみましょう。
+理想を言うなら作業は[ローカルテスト環境](https://make.wordpress.org/core/handbook/tutorials/installing-wordpress-locally/)でしましょう。しかしながらいくつかのチケットはそれを必要としないものもあります。ここで Trac でのフィードバックのための典型的なワークフローを見てみましょう。
 
 <!--
 1.  Visit the report [here](https://core.trac.wordpress.org/tickets/ux-feedback).
