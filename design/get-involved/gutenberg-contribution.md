@@ -1,14 +1,26 @@
+<!--
 # Gutenberg Contribution
+-->
+# Gutenberg への貢献
 
+<!-- 
 If you’d like to contribute to the design or front-end, feel free to contribute to tickets labelled [Design](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+label%3ADesign). We could use your thoughtful replies, mockups, animatics, sketches, doodles. It’s best to keep proposed changes simple and constrained in scope so that it’s easy to compare, discuss, and implement changes.
+-->
+デザインやフロントエンドに貢献したい場合は、気軽に[デザイン]（https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+ label％3ADesign） というラベルのチケットに貢献してください。私たちはあなたの思いやりのある返事、モックアップ、アニメ、スケッチ、落書きを使うことができます。 変更の比較、議論、実装が容易になるように、提案された変更を単純にし、範囲を制限することをお勧めします。
 
+<!--
 ## Terms
+-->
+## チーム
 
 *   [Labels](https://github.com/WordPress/gutenberg/labels): each GitHub issue has labels that denote the ‘state’.
 *   [PR: pull request](https://github.com/WordPress/gutenberg/pulls): how to add a ‘patch’ in terms of GitHub.
 *   [Milestones](https://github.com/WordPress/gutenberg/milestones): a way to chart and manage the project.
 
+<!--
 ## Labels
+-->
+## ラベル
 
 Whilst not an exhaustive list here are some of the useful labels to know about:
 
