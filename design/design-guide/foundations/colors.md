@@ -14,13 +14,13 @@ WordPress Blue
 
 rgb(0,115,170)
 
-[#0073aa](https://make.wordpress.org/design/tag/0073aa/)
+#0073aa
 
 Medium Blue
 
 rgb(0,160,210)
 
-[#00a0d2](https://make.wordpress.org/design/tag/00a0d2/)
+#00a0d2
 
 ### Grays
 
@@ -42,25 +42,25 @@ Base Gray
 
 rgb(50,55,60)
 
-[#32373c](https://make.wordpress.org/design/tag/32373c/)
+#32373c
 
 Dark Silver Gray
 
 rgb(130,135,140)
 
-[#82878c](https://make.wordpress.org/design/tag/82878c/)
+#82878c
 
 Silver Gray
 
 rgb(160,165,170)
 
-[#a0a5aa](https://make.wordpress.org/design/tag/a0a5aa/)
+#a0a5aa
 
 Light Silver Gray
 
 rgb(180,185,190)
 
-[#b4b9be](https://make.wordpress.org/design/tag/b4b9be/)
+#b4b9be
 
 ### Auxiliary Hues
 
@@ -70,37 +70,37 @@ Accent Red
 
 rgb(220,50,50)
 
-[#dc3232](https://make.wordpress.org/design/tag/dc3232/)
+#dc3232
 
 Accent Orange
 
 rgb(245,110,40)
 
-[#f56e28](https://make.wordpress.org/design/tag/f56e28/)
+#f56e28
 
 Accent Yellow
 
 rgb(255,185,0)
 
-[#ffb900](https://make.wordpress.org/design/tag/ffb900/)
+#ffb900
 
 Accent Green
 
 rgb(70,180,80)
 
-[#46B450](https://make.wordpress.org/design/tag/46b450/)
+#46B450
 
 Medium Blue
 
 rgb(0,160,210)
 
-[#00a0d2](https://make.wordpress.org/design/tag/00a0d2/)
+#00a0d2
 
 Accent Purple
 
 rgb(130,110,180)
 
-[#826eb4](https://make.wordpress.org/design/tag/826eb4/)
+#826eb4
 
 ## Downloads
 

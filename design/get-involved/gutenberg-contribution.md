@@ -22,13 +22,13 @@ Whilst not an exhaustive list here are some of the useful labels to know about:
 ### Without coding
 
 *   **Advisor**: go through ‘[needs design feedback’](https://github.com/WordPress/gutenberg/labels/Needs%20Design%20Feedback) issues.
-*   **Screenshotter**:  add screenshots to issues that have none of the problems**.  
+*   **Screenshotter**: add screenshots to issues that have none of the problems**.  
     **
 *   **Informer**: ask for more information as can’t replicate a problem.
 *   **Tester**: test not only Gutenberg on all devices, browsers and situations, but also test bugs [here](https://github.com/WordPress/gutenberg/labels/Needs%20Testing) and [here](https://github.com/WordPress/gutenberg/labels/%5BType%5D%20Bug). Also [testing any PR](https://github.com/WordPress/gutenberg/pulls) is a great way to help move issues along.
 *   **Copy issues**: review and suggest [copy](https://github.com/WordPress/gutenberg/labels/Copy).
 *   **Creator**: add to ‘[needs design](https://github.com/WordPress/gutenberg/labels/Needs%20Design)’ or anything that seems like it would be good to have a design.
-*   **Documentor**:  everything needs documentation.
+*   **Documentor**: everything needs documentation.
 *   **Triage**: see an issue without any comments or actions? Go through from oldest issues and make sure all issues can move on a little.
 
 ### With coding
