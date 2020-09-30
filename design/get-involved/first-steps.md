@@ -8,8 +8,3 @@ As a team we work on a lot of different things; from core to Dashicons and beyon
 2.  Join Slack and say ‘Hi’ – that way we can know you are looking to get involved and welcome you. Visit [chat.wordpress.org](http://chat.wordpress.org) and sign up using your WordPress.org user account.
 3.  Subscribe to the blog on [make.wordpress.org/design](https://make.wordpress.org/design). Being subscribed to this blog lets you keep in touch with the team and updates.
 4.  Find out the ways you can [contribute here](https://make.wordpress.org/design/handbook/get-involved/areas-contribute/).
-
-**Invision access**  
-Everyone gets access to Invision to help contribute. You can request access [here](https://docs.google.com/forms/d/e/1FAIpQLSe09nZ1BcQYkrL5dJ0fiOm5AOlaGvmKRV6Ko0e8ZFPhdjZmBw/viewform).
-
-We try to review this form as often as possible, but f it takes to long, please ping one of the design team reps in [#design](https://make.wordpress.org/design/tag/design/) in chat.wordpress.org Slack for quicker access.
