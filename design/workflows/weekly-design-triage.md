@@ -1,6 +1,6 @@
 # Weekly design triage
 
-Weekly triage sessions are run in Slack every Tuesday 16:00 UTC and it is combined with Gutenberg triage. The goal of this is to within half an hour triage as much as possible, if it’s only a few that is also ok.
+Weekly triage session are run in Slack every Monday 17:30 UTC. The goal of this is to within half an hour triage as much as possible, if it’s only a few that is also ok.
 
 ### Reports
 

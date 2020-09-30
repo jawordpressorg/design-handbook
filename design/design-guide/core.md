@@ -1,3 +1,3 @@
-# WordPress Core
+# Core
 
 Documenting the wp-admin
