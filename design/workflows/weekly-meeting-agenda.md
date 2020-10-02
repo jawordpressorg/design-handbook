@@ -4,26 +4,26 @@ Each weekly meeting needs a schedule posted. The agenda post should be published
 
 ## Preparation
 
-Before writing any agenda post, check with other team reps to confirm what this week’s meeting will have as the focus. There is an [agenda doc](https://docs.google.com/document/d/1R1K2CNGQpq-bYWTTA9odSOeFCS5XFw0QSReyMrHkLok/edit?usp=sharing) and they should have added to that. Once you have that, it’s time to post.
+Before writing any agenda post, check with other team reps to confirm what this week’s meeting will have as the focus. There is an [agenda doc](https://docs.google.com/document/d/1BcwREcCiHty5eJA5cbKuXl-G8JIVjcbih39eZBeDJW0/edit?usp=sharing) and they should have added to that. Once you have that, it’s time to post.
 
 ## Posting the agenda
 
 *   The following suggested format is useful to copy:
 
-> Design meeting agenda for Wednesday <date>
+> Design meeting agenda for Wednesday
 > 
 >   
-> This week’s meeting will be at 19:00 UTC tomorrow in Slack [#design](https://make.wordpress.org/design/tag/design/).  
+> This week’s meeting will be at 18:00 UTC tomorrow in Slack [#design](https://make.wordpress.org/design/tag/design/).  
 > 
 > Here are the suggested topics:
 > 
 > – Housekeeping.
 > 
-> – Updates.
+> – Updates from any specific focuses.
 > 
-> – Calls for help.
+> – Calls for feedback.
 > 
-> – Main topics.
+> – Discussion.
 > 
 > – Open floor.
 > 

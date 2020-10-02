@@ -38,7 +38,6 @@ The WordPress.org section of this handbook will document specific treatments f
 -->
 このハンドブックの WordPress.org セクションでは、WordPress.org において具体的な扱いについて説明しています。たとえば [タイポグラフィ](https://make.wordpress.org/design/handbook/wordpress-org/typography/)、[メトリクス](https://make.wordpress.org/design/handbook/wordpress-org/metrics/) (グリッドなど)、全体的な [ナビゲーション構造](https://make.wordpress.org/design/handbook/wordpress-org/navigation/) (情報アーキテクチャ) など。
 
-
 <!-- 
 ## Peripherals
 -->

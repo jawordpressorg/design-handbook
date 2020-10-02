@@ -79,13 +79,15 @@ Post: this week in Gutenberg design
 ## ミーティング内容
 
 <!-- 
-Meetings follow this typical structure. Being able to copy and paste the basic meeting structure will make generating and posting agendas easier and more consistent.
+Meetings follow this typical structure. Being able to copy and paste the basic meeting structure will make generating and posting agendas easier and more consistent.Here is an [agenda workflow](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-agenda/). Here are some steps on how to [facilitate a meeting](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-facilitating/).
 -->
-ミーティングでは、だいたい以下のようなことを行います。過去の内容をコピーペーストすることで、一貫性のあるアジェンダを簡単に作成、投稿することができます。
-
-Here is an [agenda workflow](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-agenda/). Here are some steps on how to [facilitate a meeting](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-facilitating/).
+ミーティングでは、だいたい以下のようなことを行います。過去の内容をコピーペーストすることで、一貫性のあるアジェンダを簡単に作成、投稿することができます。Here is an [agenda workflow](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-agenda/). Here are some steps on how to [facilitate a meeting](https://make.wordpress.org/design/handbook/workflows/weekly-meeting-facilitating/).
 
 <!-- 
 Both the agendas and meeting summary notes are linked from [Make WordPress Design](https://make.wordpress.org/design/).
 -->
 これまで行われたミーティングのアジェンダとサマリーは、 [Make WordPress Design](https://make.wordpress.org/design/) で確認できます。
+
+## Tools
+
+The design team has a Figma account which is due for donated to the project and due for renewal in December 2020.
