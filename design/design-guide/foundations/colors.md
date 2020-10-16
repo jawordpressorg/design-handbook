@@ -8,7 +8,10 @@ Colors are one of the key aspects when it comes to brand recognition. Making sur
 -->
 色はブランド認知の為の重要な側面の1つです。正しい色相 (色) を使用する為に確認を行うことが不可欠です。 次のリストをチェックして、公式の WordPress カラーを確認してください。 (こちらの [CodePen](https://codepen.io/hugobaeta/full/RNOzoV/) でも利用可能です。)
 
+<!--
 Are you also looking for the [official logos](https://make.wordpress.org/design/handbook/design-guide/foundations/identity/)?
+-->
+[公式ロゴ](https://make.wordpress.org/design/handbook/design-guide/foundations/identity/)もお探しですか？
 
 <!-- 
 ## Colors
