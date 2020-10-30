@@ -1,20 +1,47 @@
+<!--
 # Tools: Figma
+-->
+# ツール: Figma
 
+<!--
 Familiarizing oneself with the Figma files in the WordPress.org account can be difficult. This document will provide a high-level overview of the Figma structure and help anyone become familiar with the files therein.
+-->
+WordPress.org アカウント内の Figma ファイルに慣れるのは難しいかもしれません。このドキュメントでは、Figma の構造についてハイレベルな概要を提供し、誰でもその中にあるファイルに慣れることができるようにします。
 
+<!--
 ## Overview
+-->
+## 概要
 
+<!--
 [Figma](https://www.figma.com) allows you to design and prototype your WordPress experiences, together, in real-time and in one place.
+-->
+[Figma](https://www.figma.com) では、WordPress の体験を一か所で一緒にリアルタイムにデザインしたり、プロトタイプを作成したりすることができます。
 
+<!--
 Figma is built for the browser, so you can use it across any platform (Windows, Mac, Linux, and Chromebook). No downloads or updates required.
+-->
+Figma はブラウザ用に作られているので、どのプラットフォーム（Windows、Mac、Linux、Chromebook）でも使用できます。ダウンロードやアップデートは必要ありません。
 
+<!--
 For those that prefer the app experience, you can download the Figma Desktop App for Windows and Mac. Or use the Figma Mirror app to take your live presentations to the next level. Learn more and download the apps at [https://www.figma.com/downloads/](https://www.figma.com/downloads/)
+-->
+アプリでお使いになりたい方は、Windows および Mac 用の Figma デスクトップアプリをダウンロードしてください。また、Figma Mirror アプリを使用すると、ライブ・プレゼンテーションを次のレベルに引き上げることができます。詳細については、[https://www.figma.com/downloads/](https://www.figma.com/downloads/) でアプリをダウンロードしてください。
 
+<!--
 ## Getting Started
+-->
+## はじめに
 
+<!--
 ### How to get Figma access
+-->
+### Figmaにアクセスする方法
 
+<!--
 To join the WordPress.org Figma team, ping in [#design](https://make.wordpress.org/design/tag/design/) on chat.wordpress.org and let us know whether you need view-only or edit access. A Figma admin will contact you for your email address to set up your account.
+-->
+WordPress.org の Figma チームに参加するには、chat.wordpress.org の [#design](https://make.wordpress.org/design/tag/design/) に ping を入力して、表示のみの権限でのアクセスか編集権限でのアクセスかを知らせてください。Figma の管理者があなたのメールアドレスを連絡して、アカウントを設定します。
 
 ### Learning Figma
 
