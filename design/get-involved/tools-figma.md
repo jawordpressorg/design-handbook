@@ -43,23 +43,47 @@ To join the WordPress.org Figma team, ping in [#design](https://make.wordpress.
 -->
 WordPress.org の Figma チームに参加するには、chat.wordpress.org の [#design](https://make.wordpress.org/design/tag/design/) に ping を入力して、表示のみの権限でのアクセスか編集権限でのアクセスかを知らせてください。Figma の管理者があなたのメールアドレスを連絡して、アカウントを設定します。
 
+<!--
 ### Learning Figma
+-->
+### Figmaを学ぶ
 
+<!--
 Once you’re signed in, you can check out the [Figma Help Center](https://help.figma.com/) for getting started tutorials and more.
+-->
+サインインをしたら、[Figma Help Center](https://help.figma.com/) をチェックして、チュートリアルを始めてみましょう。
 
+<!--
 ## Structure
+-->
+## 構造
 
 [![](https://i1.wp.com/make.wordpress.org/design/files/2020/04/home-screen.png?resize=776%2C437&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2020/04/home-screen.png?ssl=1)
 
+<!--
+### Projects
+-->
 ### Projects
 
+<!--
 You can use Projects to group Files in one place. Noted that It’s not possible to create subfolders within the Projects.
+-->
+Projects を使って、ファイルを一箇所にまとめることができます。注意点としては、Projects 内にサブフォルダを作成することはできません。
 
+<!--
 #### Project Naming
+-->
+#### プロジェクトの命名
 
+<!--
 Make sure you follow the general component guidelines and naming conventions.
+-->
+一般的なコンポーネントのガイドラインと命名規則に従ってください。
 
+<!--
 *   Use the sentence case with spaces.
+-->
+*   スペースのあるセンテンスケースを使用しましょう。
 
 ### Files
 
