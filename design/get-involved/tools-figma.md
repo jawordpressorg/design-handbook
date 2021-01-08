@@ -251,23 +251,54 @@ This library contains available Figma components that mirror the base UI compone
 -->
 ### WordPress Patterns（WordPressのパターン）
 
+<!--
 → Larger patterns made up of individual UI components combined.
+-->
+→ 個々のUIコンポーネントを組み合わせた大きなパターン。
 
+<!--
 Blocks, navigation bars, Gutenberg’s sidebar, etc.
+-->
+ブロック、ナビゲーションバー、グーテンベルクのサイドバーなど。
 
+<!--
 ### Utilities
+-->
+### Utilities（ユーティリティ）
 
+<!--
 Stores things like covers, sticky notes, and diagram and wireframing components
+-->
+カバー、付箋、図表、ワイヤーフレームのコンポーネントなどを格納しています。
 
+<!--
 ## Contribution Workflows
+-->
+## 貢献のワークフロー
 
+<!--
 ### Component Contribution
+-->
+### コンポーネントへの貢献
 
+<!--
 > [WordPress components](https://make.wordpress.org/design/handbook/get-involved/wordpress-components/)
+-->
+> [WordPress コンポーネント](https://make.wordpress.org/design/handbook/get-involved/wordpress-components/)
 
+<!--
 ## References
+-->
+## 参考文献
 
-The Block Editor Handbook  
+<!--
+The Block Editor Handbook
 [https://developer.wordpress.org/block-editor/](https://developer.wordpress.org/block-editor/)
+-->
+ブロックエディターハンドブック
+[https://ja.wordpress.org/team/handbook/block-editor/](https://ja.wordpress.org/team/handbook/block-editor/)
 
+<!--
 Block Support Documentation [https://wordpress.org/support/category/block-editor/](https://wordpress.org/support/category/block-editor/)
+-->
+ブロックサポートドキュメンテーション [https://wordpress.org/support/category/block-editor/](https://wordpress.org/support/category/block-editor/)
