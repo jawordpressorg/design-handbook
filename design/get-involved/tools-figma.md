@@ -41,7 +41,7 @@ For those that prefer the app experience, you can download the Figma Desktop App
 <!--
 To join the WordPress.org Figma team, ping in [#design](https://make.wordpress.org/design/tag/design/) on chat.wordpress.org and let us know whether you need view-only or edit access. A Figma admin will contact you for your email address to set up your account.
 -->
-WordPress.org の Figma チームに参加するには、chat.wordpress.org の [#design](https://make.wordpress.org/design/tag/design/) に ping を入力して、表示のみの権限でのアクセスか編集権限でのアクセスかを知らせてください。Figma の管理者があなたのメールアドレスを連絡して、アカウントを設定します。
+WordPress.org の Figma チームに参加するには、chat.wordpress.org の [#design](https://make.wordpress.org/design/tag/design/) に、表示のみの権限でのアクセスか編集権限でのアクセスかを知らせてください。Figma の管理者からあなたのメールアドレスで Figma 上のアカウントを設定するために連絡があります。
 
 <!--
 ### Learning Figma
@@ -212,7 +212,7 @@ You can use the Team Library to access these resources across WordPress.org Team
 <!--
 This is a shared Figma library, which means its components are used by others. Please don’t make changes unless you are contributing components (see “Contributing components”). For questions, see the feedback section at the bottom of this page.
 -->
-これは共有された Figma ライブラリであり、そのコンポーネントは他の人が使用することを意味します。コンポーネントに貢献している場合を除き、変更を加えないでください（「コンポーネントの貢献」を参照してください）。質問は、このページの下部にあるフィードバック・セクションを参照してください。
+これは共有された Figma ライブラリであり、そのコンポーネントは他の人が使用することを意味します。コンポーネントに貢献している場合を除き、変更を加えないでください（「コンポーネントへの貢献」を参照してください）。質問は、このページの下部にあるフィードバック・セクションを参照してください。
 
 [![](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?resize=776%2C377&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?ssl=1)
 
