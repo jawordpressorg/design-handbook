@@ -1,4 +1,4 @@
-# Weekly Gutenberg design triage
+# Weekly design triage: how to facilitate
 
 **How to run a weekly Gutenberg design triage session.** The weekly triage sessions are run in Slack every Tuesday 17:00 UTC. The goal is to triage issues in the `WordPress/Gutenberg` repo on GitHub that have the label `Needs Design Feedback`.
 
@@ -26,7 +26,7 @@ You have a few options for sorting. Sorting the list by “Oldest,” “Least c
 ### Running triage
 
 *   Open the triage session by pinging the channel with `/here` if possible.
-*   Type `<triage>` so that it is evident this is a triage session happening.
+*   Type so that it is evident this is a triage session happening.
 *   Welcome everyone to the session and briefly explain what’s going on. Something like this:
 
 > Welcome to the Gutenberg design triage session. The goal is to help any Gutenberg issues with the `Needs Design Feedback` label. Today we’re looking at this list sorted by \[however you sorted\].
@@ -47,6 +47,6 @@ You have a few options for sorting. Sorting the list by “Oldest,” “Least c
     
     *   If the agreed upon result is to close the issue, and you have permissions in GitHub to do so, please do.
 *   Congratulations you’ve triaged that issue! Now onto the next and keep going until you reach 1 hour.
-*   Close out triage by thanking everyone and typing `</triage>`.
+*   Close out triage by thanking everyone and typing .
 
 ### Video example of triage

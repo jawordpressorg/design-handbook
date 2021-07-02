@@ -15,12 +15,12 @@ Note: this process goes hand in hand with the process of adding a code component
 
 Once there is a proposal for a code component on GitHub, the process of adding a Figma component can start. Adding the “**Figma Library Update**” GitHub label will notify the [#design](https://make.wordpress.org/design/tag/design/) Slack channel that a change/addition is needed.
 
-First, open the [WordPress Components](https://www.figma.com/file/ZtN5xslEVYgzU7Dd5CxgGZwq/WordPress-Components?node-id=746%3A38) Figma library.
+First, open the [WordPress Design](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library) Figma library.
 
-*   **Proposals**: Make a component and add it to the [**Proposals** page](https://www.figma.com/file/ZtN5xslEVYgzU7Dd5CxgGZwq/WordPress-Components?node-id=2443%3A4924) to be discussed. During this phase, feel free to work on the component until the component is finalized in the Gutenberg GitHub repo. **Because the Figma components mirror what’s in code, we shouldn’t publish a new Figma component until it’s available in code.**
-*   **Iteration**: Iterate on the component until it matches the coded component. This includes color, spacing, typography, states, etc. Make sure you follow the [general component guidelines and naming conventions](https://www.figma.com/file/ZtN5xslEVYgzU7Dd5CxgGZwq/WordPress-Components?node-id=3318%3A5040).
+*   **Proposals**: Make a component and add it to the [**Proposals** page](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=2%3A32) to be discussed. During this phase, feel free to work on the component until the component is finalized in the Gutenberg GitHub repo. **Because the Figma components mirror what’s in code, we shouldn’t publish a new Figma component until it’s available in code.**
+*   **Iteration**: Iterate on the component until it matches the coded component. This includes color, spacing, typography, states, etc. Make sure you follow the [general component guidelines and naming conventions](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=1%3A2).
 *   **Review**: Once the *coded* component has been finalized, it’s time to review the Figma component and get it ready for publishing. Figma maintainers will need to check for accuracy, layer structure, and naming. Please ping the designers in the [#design](https://make.wordpress.org/design/tag/design/) Slack channel to get a review.
-*   **Publish**: After the code component has been released to @wordpress/components, the Figma component can now be published to the Figma library by a maintainer. Be sure to include release notes. Maintainers: Please follow the [publishing guidelines](https://www.figma.com/file/ZtN5xslEVYgzU7Dd5CxgGZwq/WordPress-Components?node-id=3318%3A5040).
+*   **Publish**: After the code component has been released to @wordpress/components, the Figma component can now be published to the Figma library by a maintainer. Be sure to include release notes. Maintainers: Please follow the [publishing guidelines](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=1%3A2).
 
 ### **Editing an existing component in Figma**
 
@@ -35,6 +35,6 @@ If you make a change to any code component as a designer or developer, the corre
 
 ## Further links
 
-*   [WordPress Components Figma library](https://www.figma.com/file/ZtN5xslEVYgzU7Dd5CxgGZwq/WordPress-Components?node-id=746%3A38)
+*   [WordPress Design Figma library](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library)
 *   [Source of the WordPress Components code](https://github.com/WordPress/gutenberg/tree/master/packages/components/src)
 *   [Process for contributing changes or additions to the WordPress Components code](https://github.com/WordPress/gutenberg/blob/master/packages/components/src/CONTRIBUTING.md)

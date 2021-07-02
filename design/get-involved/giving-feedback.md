@@ -1,10 +1,10 @@
-# Giving Feedback
+# Giving feedback
 
 Giving design feedback is an excellent way to start getting involved in contributing to WordPress. There are a few places you can give feedback:
 
 *   As a comment on individual [t](https://core.trac.wordpress.org/)rac tickets.  
     We have different types that have the design team involved:
-    *   **[Core tickets that need UI-feedback or UX-feedback](https://core.trac.wordpress.org/tickets/ux-feedback)**   
+    *   **[Core tickets that need UI-feedback or UX-feedback](https://core.trac.wordpress.org/tickets/ux-feedback)**   
         Please note there are 2 lists on this page. We usually take a look at the oldest tickets first. These tickets are currently handled during our weekly triage. [Please find the next time and day on the meeting page](https://make.wordpress.org/meetings/).  
         Of course you can also pick a ticket to give feedback on any time you like.
     *   **[Core tickets that need design](https://core.trac.wordpress.org/query?status=accepted&status=assigned&status=new&status=reopened&status=reviewing&keywords=~needs-design&col=id&col=summary&col=status&col=keywords&col=owner&col=type&col=priority&col=changetime&order=priority)**  

@@ -1,4 +1,4 @@
-# Weekly meeting agenda
+# Weekly meeting: creating the agenda
 
 Each weekly meeting needs a schedule posted. The agenda post should be published at least a day before to give time for those in different timezones to comment. The goal of an agenda post is to structure the meeting but also collect topics to add.
 
