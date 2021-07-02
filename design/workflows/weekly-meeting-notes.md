@@ -1,11 +1,11 @@
-# Weekly meeting notes
+# Weekly meeting: taking notes
 
 The following people rotate each week to take notes.
 
-*   @adampickering
-*   @nrqsnchz
+*   @chaion07
+*   @kellychoffman
 *   @estelaris
-*   @joshuawold
+*   @ashiquzzaman
 *   @hedgefield
 
 Rota for note taking happens in the order listed above, if someone taking notes is unable to make a week they can swap with someone else.

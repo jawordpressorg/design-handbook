@@ -1,15 +1,15 @@
-# Scope post
+# Writing a design proposal
 
-If you have a feature or proposal for the design and want to get a group of designers working on it, it’s time for a scope post. A scope post is useful as a central point to explain the problem, what is needed and gather volunteers.
+If you have a proposal for a new feature or a design iteration and want to get a group of designers working on it, it’s time for a post on the [make design blog](make.wordpress.org/design). This will be useful as a central point to explain the problem, list what is needed, and gather volunteers.
 
-## Preparing a call
+## Preparing a proposal post
 
 *   Collect all the background information to the design.
 *   Ensure you have made or link issues/tickets.
 *   Write a clear set of expectations/requirements for the designer(s) you need on this project.
 *   Write a clear set of expectations/requirements for the project.
 
-## Writing the scope
+## Defining the scope
 
 *   State the problem: what is trying to be solved?
 *   State background and link in any tickets/issues or context. Ideally, you will already have a kickoff post if a feature, be sure to link to that.
