@@ -1,4 +1,4 @@
-# Weekly meeting facilitating
+# Weekly meeting: how to facilitate
 
 Each week there is a weekly design team meeting at 19:00 UTC on Thursdays in [#design](https://make.wordpress.org/design/tag/design/) Slack channel. Should you wish to facilitate one, there are a few things to consider. Sessions are usually run by one of the team reps. The goal of the meeting is to get through an agenda and give everyone space to contribute.
 
@@ -12,14 +12,14 @@ The day before the meeting you need to make sure of a few things:
 
 ## Facilitating the meeting
 
-*   Open the session by saying: <meeting> and if possible use ‘/here’ to announce start.
+*   Open the session by saying: and if possible use ‘/here’ to announce start.
 *   Link to the agenda so that everyone can follow along.  
       
-    *While everyone gets settled in, this is today’s agenda: <link to agenda>*  
+    *While everyone gets settled in, this is today’s agenda:*  
     
 *   Note who is taking notes and nature of meeting:  
       
-    *A little reminder this is a family-friendly meeting. There will be notes taken for those to catchup by <notetaker>*  
+    *A little reminder this is a family-friendly meeting. There will be notes taken for those to catchup by*  
     
 *   Set context over the meeting:  
       
@@ -28,7 +28,7 @@ The day before the meeting you need to make sure of a few things:
 *   Make sure you go line by line, in the correct of the schedule.
 *   Give space for responses on all agenda items.
 *   Make sure there is space for an open floor.
-*   Close out the session by thanking everyone for attending and saying </meeting>.  
+*   Close out the session by thanking everyone for attending and saying .  
       
     *Don’t forget that there will be design triages held in this channel, on Monday (17:30UTC) for core and Tuesday (17:00UTC) for Gutenberg.  
       

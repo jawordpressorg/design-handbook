@@ -1,10 +1,10 @@
 # Team reps
 
-### Current team reps:
+## Current team reps
 
-![](https://gravatar.com/avatar/ca7d4273a689cdbf524d8332771bb1ca?d=mystery)
+![](https://gravatar.com/avatar/bc68bed9491941ae6a1625330db31f2f?d=mystery)
 
-**Tammie Lister** [@karmatosed](https://profiles.wordpress.org/karmatosed)
+**Ahmed Chaion** [@chaion07](https://profiles.wordpress.org/chaion07/)
 
 ![](https://secure.gravatar.com/avatar/c83b6e2dbfdf8d80923dc45c16042e10?s=100&d=mm&r=g)
 

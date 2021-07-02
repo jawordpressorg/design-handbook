@@ -1,4 +1,4 @@
-# Gutenberg Contribution
+# Contributing to Gutenberg
 
 If you’d like to contribute to the design or front-end, feel free to contribute to tickets labelled [Design](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue+is%3Aopen+label%3ADesign). We could use your thoughtful replies, mockups, animatics, sketches, doodles. It’s best to keep proposed changes simple and constrained in scope so that it’s easy to compare, discuss, and implement changes.
 

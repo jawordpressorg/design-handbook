@@ -14,7 +14,7 @@ For those that prefer the app experience, you can download the Figma Desktop App
 
 ### How to get Figma access
 
-To join the WordPress.org Figma team, ping in [#design](https://make.wordpress.org/design/tag/design/) on chat.wordpress.org and let us know whether you need view-only or edit access. A Figma admin will contact you for your email address to set up your account.
+The [WordPress Figma library](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=1%3A2) is publicly open and available for all to view. If you require edit access to contribute design work to a new or existing project, please ping in [#design](https://wordpress.slack.com/archives/C02S78ZAL) channel on the [Making WordPress Slack](https://chat.wordpress.org/).
 
 ### Learning Figma
 
@@ -106,33 +106,15 @@ This is a shared Figma library, which means its components are used by others. P
 
 [![](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?resize=776%2C377&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?ssl=1)
 
-### WordPress Foundation
+### WordPress Design Library
 
-→ The core elements that make up visual design across the project. These are design tokens (like variables, but for design!) and core styles that don’t change often once established.
-
-*Colours, type styles, icons, spacers, etc.*
-
-### WordPress Components
-
-This library contains available Figma components that mirror the base UI components found in the [@wordpress/components](https://www.npmjs.com/package/@wordpress/components) npm package. They are stable, fully supported, and ready for use in projects. @wordpress/components is an npm package that is published via the [Gutenberg repo](https://github.com/WordPress/gutenberg).
-
-*Component documentation:* [*https://developer.wordpress.org/block-editor/*](https://developer.wordpress.org/block-editor/)
-
-### WordPress Patterns
-
-→ Larger patterns made up of individual UI components combined.
-
-Blocks, navigation bars, Gutenberg’s sidebar, etc.
-
-### Utilities
-
-Stores things like covers, sticky notes, and diagram and wireframing components
+The previous 3 libraries are now combined into one [single file](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library). This contains components, styles and icons.
 
 ## Contribution Workflows
 
 ### Component Contribution
 
-> [WordPress components](https://make.wordpress.org/design/handbook/get-involved/wordpress-components/)
+[https://make.wordpress.org/design/handbook/get-involved/wordpress-components/](https://make.wordpress.org/design/handbook/get-involved/wordpress-components/)
 
 ## References
 
