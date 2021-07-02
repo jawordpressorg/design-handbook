@@ -38,7 +38,10 @@ For those that prefer the app experience, you can download the Figma Desktop App
 -->
 ### Figmaにアクセスする方法
 
+<!--
 The [WordPress Figma library](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=1%3A2) is publicly open and available for all to view. If you require edit access to contribute design work to a new or existing project, please ping in [#design](https://wordpress.slack.com/archives/C02S78ZAL) channel on the [Making WordPress Slack](https://chat.wordpress.org/).
+-->
+[WordPress Figma ライブラリ](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library?node-id=1%3A2)は公開されており、誰でも見ることができます。新規または既存のプロジェクトにデザインを提供するために編集権限が必要な場合は、[Making WordPress Slack](https://chat.wordpress.org/)の[#design](https://wordpress.slack.com/archives/C02S78ZAL)チャンネルに連絡してください。
 
 <!--
 ### Learning Figma
@@ -213,9 +216,15 @@ This is a shared Figma library, which means its components are used by others. P
 
 [![](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?resize=776%2C377&ssl=1)](https://i1.wp.com/make.wordpress.org/design/files/2020/04/figma-library-structure.png?ssl=1)
 
+<!--
 ### WordPress Design Library
+-->
+### WordPress　デザインライブラリ
 
+<!--
 The previous 3 libraries are now combined into one [single file](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library). This contains components, styles and icons.
+-->
+これまでの3つのライブラリを1つの[単一ファイル](https://www.figma.com/file/e4tLacmlPuZV47l7901FEs/WordPress-Design-Library)にまとめました。コンポーネント、スタイル、アイコンが含まれています。
 
 <!--
 ## Contribution Workflows
